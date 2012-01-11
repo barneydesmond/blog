@@ -4,6 +4,9 @@ title: Unbridled Cynicism
 ---
 
 <div id="home">
+  {{ site.posts | first  }}
+
+  <h1 style="margin-top: 2em;">Post chronology</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
