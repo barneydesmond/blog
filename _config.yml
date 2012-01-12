@@ -1,4 +1,6 @@
 destination:    /home/furinkan/public_html/j.furinkan.meidokon.net
 pygments:       true
+# MaRuKu can't do nested lists properly - https://github.com/mojombo/jekyll/issues/190
+markdown:       rdiscount
 img_full_path:  /img/full
 img_thumb_path: /img/thumb
