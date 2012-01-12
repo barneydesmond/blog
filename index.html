@@ -2,15 +2,8 @@
 layout: default
 title: Unbridled Cynicism
 ---
+{{ site.posts | first }}
 
-<div id="home">
-  {{ site.posts | first  }}
-
-  <h1 style="margin-top: 2em;">Post chronology</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<h1>Previous posts</h1>
+<p>A full list of posts can be found in <a href="/history.html">the archives</a>.</p>
 
