@@ -3,7 +3,7 @@ layout: post
 title: Machine pistol in .45 ACP? This is madness!
 ---
 
-# {{ page.title }}
+{% include post_header.html %}
 
 Let's talk firearms, I think they're great fun. As an engineer, I find their hard functionality, intricacy and reliability fascinating (this goes doubly when you spend the rest of your time dealing with computers, haha). I'm not interested in pointing guns at people and I sure don't want to be on the business end of one either, but let's face it - guns are badass and cool. Thanks, John Woo.
 

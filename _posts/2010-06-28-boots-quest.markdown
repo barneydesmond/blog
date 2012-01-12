@@ -3,7 +3,7 @@ layout: post
 title: Boots quest
 ---
 
-# {{ page.title }}
+{% include post_header.html %}
 
 For reasons that are difficult to rationally justify, I've really wanted a pair of boots recently. More accurately, another pair. The black knee-highs with six-inch heels are a little impractical at times, and the brown leather ones are a bit small.
 

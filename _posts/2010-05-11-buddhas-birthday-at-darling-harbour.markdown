@@ -3,7 +3,7 @@ layout: post
 title: Buddha's Birthday at Darling Harbour
 ---
 
-# {{ page.title }}
+{% include post_header.html %}
 
 I'm not a religious person, but I'm not one to pass up a photo-taking opportunity when it's on my doorstep (though given the choice between Buddhism and Shinto, I'll take the latter). While it's not officially for a couple of weeks, celebrations were held [last weekend in Darling Harbour](http://www.nantien.org.au/en/news/News_View.asp?NewsID=264).
 

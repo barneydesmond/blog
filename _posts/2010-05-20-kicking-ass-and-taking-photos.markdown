@@ -3,7 +3,7 @@ layout: post
 title: Kicking ass and taking photos
 ---
 
-# {{ page.title }}
+{% include post_header.html %}
 
 The cinema run for [Kick Ass](http://en.wikipedia.org/wiki/Kick-Ass_%28film%29) will finish soon, and despite my initial skepticism, people whom I trust have genuinely been saying very good things about it. And so it was commanded that the film would be seen. The film was seen, and it was judged to be Good.
 

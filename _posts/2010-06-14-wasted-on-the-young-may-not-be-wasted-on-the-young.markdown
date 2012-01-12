@@ -3,7 +3,7 @@ layout: post
 title: Wasted on the Young may not be wasted on the young
 ---
 
-# {{ page.title }}
+{% include post_header.html %}
 
 I just got back from a [Sydney Film Festival](http://sff.org.au/) screening of [Wasted on the Young](http://tix.sff.org.au/session2.asp?sn=Wasted+on+the+Young). I hadn't planned on it, but I got back from *Welcome to the Space Show* and felt I should at least *try* to expand my borders a little. With less than an hour before lights-down I ordered the bloody ticket and hurried towards company HQ to get it printed.
 
