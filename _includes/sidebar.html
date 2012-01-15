@@ -1,6 +1,15 @@
 <div class="sidebar">
 
   <div class="widget">
+    <h3 style="margin-top: 2em;">Comrades</h3>
+    <ul class="posts">
+      {% for comrade in site.comrades %}
+        <li><a href="{{ comrade.last }}">{{ comrade.first }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="widget">
     <h3 style="margin-top: 2em;">Five most-recent posts</h3>
     <ul class="posts">
       {% for post in site.posts limit:5 %}

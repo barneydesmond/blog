@@ -4,3 +4,6 @@ pygments:       true
 markdown:       rdiscount
 img_full_path:  /img/full
 img_thumb_path: /img/thumb
+comrades:
+- ["AstCd2 @ Mikanya", "http://mikanya.meidokon.net/"]
+- ["Akira @ Moe Fundamentalism", "http://akirascuro.wordpress.com/"]
