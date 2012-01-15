@@ -205,6 +205,10 @@ ul.posts span {
   line-height: 1.4em;
 }
 
+.content-full-width p, .content-full-width li {
+  line-height: 1.4em;
+}
+
 
 
 
@@ -216,8 +220,13 @@ ul.posts span {
   width: 38em;
   float: left;
   display: inline;
+}
+
+.content p, .content li {
   line-height: 1.4em;
 }
+
+
 
 .sidebar {
   /*border: 1px solid red;*/
@@ -231,7 +240,7 @@ ul.posts span {
 }
 
 .sidebar .widget .blurb {
-	padding-left: 2em;
+	padding-left: 1em;
 }
 
 
@@ -249,6 +258,7 @@ ul, ol {
 /*****************************************************************************/
 
 #post {
+  line-height: 2.4em;
 
 }
 
