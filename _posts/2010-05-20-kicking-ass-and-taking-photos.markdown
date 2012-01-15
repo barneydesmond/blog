@@ -37,9 +37,10 @@ Pretty much as expected, it was a huge media shitstorm and taking photos was too
 
 Not a complete loss, and a nice chance to use the 80-200/2.8. Of the many photos taken, a small number of them [didn't completely suck](http://furinkan.meidokon.net/img/20100515_jessica_watson/). Of the lot, I think I'm most happy with this one of a random girl, who for unknown reasons is looking rather concerned :/
 
-[![Concerned Girl is concerned]({{ site.img_thumb_path }}/concerned_girl_DSC_3340_thumbnail.jpg "Concerned Girl is concerned")](http://furinkan.meidokon.net/img/20100515_jessica_watson/content/DSC_3340_large.html)
+{% insert_image concerned_girl_DSC_3340.jpg %}
+Caption: Concerned Girl is concerned
 
-It's most evident in the [3.5MiB full-size version]({{ site.img_full_path }}/concerned_girl_DSC_3340.jpg), but the detail is eye-wateringly beautiful. She was sitting on her father's shoulders several metres away, yet you can pick out the finest vellus hair on her face and the weave of the clothing. The background is blurred to hell and back, to perfection.
+It's most evident in the [3.5MiB full-size version]({% link_image concerned_girl_DSC_3340_fullsize.jpg %}), but the detail is eye-wateringly beautiful. She was sitting on her father's shoulders several metres away, yet you can pick out the finest vellus hair on her face and the weave of the clothing. The background is blurred to hell and back, to perfection.
 
 There's a lot of shiny photographic gear on display at these events too, not just weird people to gawk at.
 

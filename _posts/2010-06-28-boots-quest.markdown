@@ -7,7 +7,8 @@ title: Boots quest
 
 For reasons that are difficult to rationally justify, I've really wanted a pair of boots recently. More accurately, another pair. The black knee-highs with six-inch heels are a little impractical at times, and the brown leather ones are a bit small.
 
-[![Kaichou wa Maid-sama]({{ site.img_thumb_path }}/maid-sama_white_boots_thumbnail.jpg "Kaichou wa Maid-sama")]({{ site.img_full_path }}/maid-sama_white_boots.jpg)
+{% insert_image maid-sama_white_boots.jpg %}
+Caption: Kaichou wa Maid-sama
 
 It's got something to do with this picture, I'm absolutely entranced by those <span class="nobr">かわいい</span> white boots being worn by Aoi. <small>(P.S. <span class="nobr">かわいい</span> means "cute" in Japanese ^_^)</small>
 
@@ -25,7 +26,7 @@ Actually finding a proper cobbler (or more correctly a "[cordwainer](http://en.w
  * [Mr George Shoes](http://www.mrgeorgeshoes.com.au/) - Right, now we're talking.
 
 
-<p>Quest item received! 1x Scrap of white leather</p>
-[![Quest item received! 1x Scrap of white leather]({{ site.img_thumb_path }}/quest_item_leather_scrap_thumbnail.jpg "Quest item received! 1x Scrap of white leather")]({{ site.img_full_path }}/quest_item_leather_scrap.jpg)
+{% insert_image quest_item_leather_scrap.jpg %}
+Caption: Quest item received! 1x Scrap of white leather
 
 ## To Be Completed
