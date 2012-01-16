@@ -10,7 +10,7 @@ For reasons that are difficult to rationally justify, I've really wanted a pair 
 {% insert_image maid-sama_white_boots.jpg %}
 Caption: Kaichou wa Maid-sama
 
-It's got something to do with this picture, I'm absolutely entranced by those <span class="nobr">かわいい</span> white boots being worn by Aoi. <small>(P.S. <span class="nobr">かわいい</span> means "cute" in Japanese ^_^)</small>
+It's got something to do with this picture ([full-size, 5.2 MiB]({% link_image maid-sama_white_boots_huge.jpg %})), I'm absolutely entranced by those <span class="nobr">かわいい</span> white boots being worn by Aoi. <small>(P.S. <span class="nobr">かわいい</span> means "cute" in Japanese ^_^)</small>
 
 One can't be impulsive about such things, so I sought approval from my trusted comrades. A short while later I'd managed to goad enough of them into agreeing that it was a splendid idea. Somewhat more self-assured, I began looking for options.
 
