@@ -6,6 +6,9 @@ img/thumb/%.jpg: img/full/%.jpg
 img/thumb/%.png: img/full/%.png
 	convert -resize 320x99999\> $< $@
 
+img/thumb/%.gif: img/full/%.gif
+	convert -resize 320x99999\> $< $@
+
 
 all: thumbs jekyll
 
