@@ -26,7 +26,7 @@ It arrived on Wednesday, day before the Australia Day holiday. "Fantastic", I th
     {% insert_image fuckwindvd.jpg %}
     Caption: Register my fucking **WHAT!?** Yeah, no.
 
-1. Can this really be the state of the art when it comes to BD software. The googles seem to think so, but some people on various forums seem to like Arcsoft TotalMedia Theatre. Out of everything I've tried so far, this is almost inoffensive.
+1. Can this really be the state of the art when it comes to BD software? The googles seem to think so, but some people on various forums seem to like Arcsoft TotalMedia Theatre. Out of everything I've tried so far, this is almost inoffensive.
 
     Not too many surprises, and not overly shiny. I'd like to customise the keyboard shortcuts a bit, but it otherwise works, and the graphical UI elements know how to be small and stay out of the way. I still can't take a screenshot, is this a prohibited UOP (User OPeration) on the disc or something? Creators can disable things like fast-forward, rewind, chapter jumps, etc., but that's usually for copyright notices and stuff, not petty stuff like this.
 
