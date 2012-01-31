@@ -7,7 +7,7 @@ module Jekyll
     end
 
     def render(context)
-      "<a href=\"http://jisho.org/words?jap=#{@japanese_term}&dict=edict\">#{@japanese_term}</a>"
+      "#{@japanese_term}<sup><a href=\"http://jisho.org/words?jap=#{@japanese_term}&dict=edict\" title=\"Translate with jisho.org\">[?]</a></sup>"
     end
   end
 end
