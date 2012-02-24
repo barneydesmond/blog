@@ -1,6 +1,7 @@
 ---
 layout: post
 title: POST_TITLE
+vim: linebreak
 ---
 
 {% include post_header.html %}
