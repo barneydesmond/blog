@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Framing deadtree photos
-#published: false
 ---
 
 {% include post_header.html %}
