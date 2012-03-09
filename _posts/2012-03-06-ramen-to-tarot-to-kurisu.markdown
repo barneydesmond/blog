@@ -2,7 +2,6 @@
 layout: post
 title: Ramen と Tarot と Kurisu
 vim: linebreak
-published: no
 ---
 
 {% include post_header.html %}
