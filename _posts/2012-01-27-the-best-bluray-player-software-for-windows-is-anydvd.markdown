@@ -30,7 +30,7 @@ It arrived on Wednesday, day before the Australia Day holiday. "Fantastic", I th
 
     Not too many surprises, and not overly shiny. I'd like to customise the keyboard shortcuts a bit, but it otherwise works, and the graphical UI elements know how to be small and stay out of the way. I still can't take a screenshot, is this a prohibited UOP (User OPeration) on the disc or something? Creators can disable things like fast-forward, rewind, chapter jumps, etc., but that's usually for copyright notices and stuff, not petty stuff like this.
 
-    TMT also put this TM Server thing is my system tray. It's apparently meant to allow control from a phone or something, which is cool but it'd be nice if they asked or mentioned it anywhere. I don't believe I saw it in the installer.
+    TMT also put this TM Server thing in my system tray. It's apparently meant to allow control from a phone or something, which is cool but it'd be nice if they asked or mentioned it anywhere. I don't believe I saw it in the installer.
 
 
 TMT seems like the least-worst out of this limited sampling. Then I read about AnyDVD. It handles the dirty work of decrypting the disc, letting you use whatever the hell you want to play the BD. Like Media Player Classic.
