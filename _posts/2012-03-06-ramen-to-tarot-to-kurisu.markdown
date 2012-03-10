@@ -45,7 +45,7 @@ One of the things I really enjoy about cosplaying is watching other people's rea
 Caption: Radio Kaikan is just off to the right, you can see the 世 from "Sekai no Radio Kaikan". I wanted the huge Steins;Gate sign to be visible instead.
 
 {% insert_image DS7_9382.jpg %}
-Caption: Stairs in front of the Crossfield sign. Not entirely pleased with the shot (and I shouldn't have been wearing glasses) and it was difficult to light without burning inordinate amounts of time, but the lines and composition.
+Caption: Stairs in front of the Crossfield sign. Not entirely pleased with the shot (and I shouldn't have been wearing glasses) and it was difficult to light without burning inordinate amounts of time, but the lines and composition are good.
 
 {% insert_image DS7_9406.jpg %}
 Caption: Blitz whipped out the 50mm/1.4 at this point, being able to avoid higher ISOs is really nice. This was taken on the same stairs in front of the Crossfield sign.
