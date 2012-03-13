@@ -31,6 +31,9 @@ Before leaving Ginza we hit up Tokyu Hands so Trej could get a [horse head mask]
 
 I picked up a little pouch for the macbook, one of these [Dr Ion B5 multi case](http://www.rakuten.co.jp/bungukimuraya/1811600/1764930/) things. Unfortunately it doesn't have a shoulder strap, only a carry handle. I think I can rectify that myself (with a suitably ita-tastic strap), and I like the idea that I should be able to whip it out at a moment's notice.
 
+{% insert_image DS7_0014.jpg %}
+Caption: Yo dawg, Xzibit got all over this d20, for just 262 yen.
+
 We met up with Blitzwing and his Canadian friends in the afternoon, after hunting around Cospa and getting some loot. Finally got that [Kurisu windbreaker](http://www.cospa.com/detail/id/00000042299) that I'd been eyeing off since last November, and the [Judgment armband](http://nijigencospa.com/detail/id/00000030914).
 
 Blitz had to take his friends back to their hotel, so we parted ways and had dinner at [Tsujida](http://www.ramenadventures.com/2010/02/tsujida-in-awajicho.html). Timed it just right, as there was a good queue outside by the time we left.
