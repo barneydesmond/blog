@@ -64,6 +64,9 @@ The walkway on top of the dam is narrow, one metre wide at best. The high fence 
 {% insert_image DS7_9656.jpg %}
 Caption: I feel like Solid Snake right now, he's so cool. I cracked open the second calorie mate to restore some stamina before heading back. There's nothing more I can do, this is Mission Success.
 
+{% insert_image natsumachi01_01m31s.jpg %}
+Caption: Reference image from the beginning of the anime, with visible stars ;_;
+
 **03:58am** - Back to the normal two-lane roads again, progress expected to be much quicker for return journey. Will follow the road all the way this time instead of going through the park.
 
 **04:34am** - Back at the hotel, damp clothes are stripped off and laid out to dry in the heated air.
