@@ -21,6 +21,10 @@ Caption: The girls are cute and the skirts are short. Come visit sometime.
 
 I'm still in the Kurisu cosplay, which she got very excited about as she's also a fan of Steins;Gate. We had a good round of [Tutturu~](http://www.youtube.com/watch?v=gycSZoYzEks) at the table. She says she used to cosplay more, but it became too much like work after she started. I guess that's kind of an occupational hazard.
 
+**Highlight of the evening:** Trej and I had been pretty quiet in the conversation thanks to our weak conversational skills, whereas Blitz was going in guns-blazing. Apparently something about the conversation had gotten her curious about my cosplay, it clicked when I heard her say "<ruby>美人<rt><rp>(</rp><a href="http://jisho.org/words?jap=%E7%BE%8E%E4%BA%BA">bijin</a><rp>)</rp></rt></ruby>". She asked if I was a boy or a girl shortly after, and flipped out in surprise when I replied with "<ruby>男の娘<rt><rp>(</rp>otoko no ko<rp>)</rp></rt></ruby>" :D
+
+### ACHIEVEMENT UNLOCKED: Successful trap vs. waitress in a maid cafe
+
 As things go, Cos-Cha seems like a decent place, and it's not hideously expensive. Plus they serve alcohol, which is never a bad thing. We suspect it's why there's a bunch of middle-aged salarymen there, having a drink and admiring the cute waitresses. Weekends are themed nights - if we can make it there on Saturday we'll catch the [sukumizu and thighhighs](http://danbooru.donmai.us/post/show/1108674/) day. \o/
 
 -----
