@@ -74,8 +74,58 @@ Caption: Answers for the lower floors.
 
 There's a few things I have to take care of, enough to need a paper list. First and easiest is Ast's [Uiharu figure](http://www.alter-web.jp/figure/11/03_1/index.html). Everything's already shipped out, so I'm going to have to take her with me as *hand* luggage. K-Books in the Culture Zone building has what I'm after, and at 5,250 yen she's not a bad price.
 
-There must be some kind of gig happening on the basement level of the Culture Zone, there's bangin' dance music coming out of there. I have *got* to check this out...
+There must be some kind of gig happening on the basement level of the Culture Zone, there's bangin' dance music coming out of there. I have *got* to check this out, but it's going to have to wait a bit. I've burnt through two of the three Single-8 cartridges, so they need to be dropped in before we leave.
+
+I hop on the train out to Kamezawa and hope for the best - I mailed my internets back to Rentafone this morning, so I'm off the air for the rest of the day. My spatial senses are good so I make it there easily, but I'm now acutely aware that the clock is ticking; we do not have a leisurely afternoon ahead of us.
 
 {% insert_image DS7_9982.jpg %}
 Caption: A curious pedestrian passes what's left of the Radio Kaikan.
 
+On the way back, before meeting up with Trej again, I decide to swing by the "Radio Kaikan 2". I'm not sure how long it's been around, but Trej visited earlier in the week on a whim and discovered it's where they've stashed the model time machine that was on top of Radio Kaikan before they pulled it down!
+
+Sure enough, there it is, along with a set of full-scale character popstands. I'm glad I made the effort to drop in, it'd be a shame if I missed it. There's a little guestbook near the time machine with plenty of visitors' signature. I leave my own haphazard message to the future and get some more photos.
+
+{% insert_image DS7_9783.jpg %}
+Caption: There are no good angles of this thing, the room is too tiny and the time machine is huge. And there's another dude visiting.
+
+I did get a shot where you can [see everybody]({% link_image DS7_9787.jpg %}), but there's too many reflections from the environmental lighting. The popstands are gorgeously printed so I figured it's worth getting some nice close-ups, they beat the pants off my design materials artbook at home.
+
+{% insert_image DS7_9788.jpg %}
+Caption: Lab Member 006 - だが、男だ
+
+{% insert_image DS7_9791.jpg %}
+Caption: Lab Member 005 - 「。。。」
+
+{% insert_image DS7_9792.jpg %}
+Caption: Lab Member 007 - ☆彡 ☆ミFeyris-nyan~ ☆彡 ☆ミ
+
+{% insert_image DS7_9795.jpg %}
+Caption: Lab Member 002 - トゥットゥル～
+
+{% insert_image DS7_9797.jpg %}
+Caption: Lab Member 001 - ＳＯＮＯＶＡＢＩＴＣＨ！
+
+{% insert_image DS7_9800.jpg %}
+Caption: Lab Member 004 - ガッ
+
+{% insert_image DS7_9801.jpg %}
+Caption: Lab Member 003 - Super Haker
+
+{% insert_image DS7_9804.jpg %}
+Caption: Lab Member 008 - Dat part-time soldier
+
+Actually there were a few guestbooks there, they'd managed to fill them up pretty well. I grabbed some of the cute/interesting ones.
+
+{% insert_image DS7_9807.jpg %}
+Caption: Ast points out that the picture on the cover might be a reference to Gunbuster. As he explains it: "They travel away from earth at relativistic speeds to fight aliens, so when they come home it's the distant future. They light up the earth with the message オカエリナサイ, but the イ is backwards because, well, it's the future." I reckon it's too good a match to be a coincidence, I love that attention to little details.
+
+{% insert_image DS7_9810.jpg %}
+Caption: Colon-three never gets old.
+
+{% insert_image DS7_9811.jpg %}
+Caption: Not quite sure what Kurisu is saying there. Okabe is "But, it's Dr Pepper!"
+
+{% insert_image DS7_9814.jpg %}
+Caption: A visitor from Singapore. Self-explanatory.
+
+Well, I'm done here for now, I'd better go meet up with Trej...
