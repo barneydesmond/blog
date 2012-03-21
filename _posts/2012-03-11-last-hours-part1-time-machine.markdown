@@ -14,6 +14,9 @@ Met up with Trej on arrival back in Tokyo and went out to hit the town. Somethin
 
 We really liked it, the place is spacious and tastefully decorated with stuff to look at while you eat and drink. And we got table number 39. Trej and I seem to have found our happy divisions, we got the Miku and Luka themed drinks respectively, and the NegiToro plate each. It's really tasty!
 
+{% insert_image DS7_0050.jpg %}
+Caption: The drinks come with a matching take-home coaster. Chibi Luka is ridiculously cute, but I think I like the cool nee-san Luka even better.
+
 There's a few themes going in the cafe at the moment: Miku, Milky Holmes and Madoka Magica (actually the real theme is the letter 'M'). There's copious amounts of design and production materials on display for each one, it's fascinating stuff to look at.
 
 Milky Holmes still puzzles me with its popularity. I like it because it's silly fun, and at times perverse, but I can't figure out if all these other people really like it as well, or it's just the marketing juggernaut pushing it along.
