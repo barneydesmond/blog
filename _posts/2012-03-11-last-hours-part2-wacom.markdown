@@ -55,7 +55,8 @@ Caption: Akiba pedestrian heaven! Pity there was no time to cosplay today, it wo
 
 Good fun except that it's a bastard to get along the street in a hurry when it's full of people. I made it to the other Cospa store and found possibly the best acquisition of the whole trip: an [Onegai Teacher hoodie with Ichigo on the back](http://www.cospa.com/detail/id/00000043493). Not just any Ichigo, mind you.
 
-**"Unless you shut up, I'll do SOMETHING AMAZING"**
+{% insert_image DS7_0053.jpg %}
+Caption: **"Unless you shut up, I'll do SOMETHING AMAZING"**
 
 6000 yen? Fukken done. She's going to keep me so warm. Senpai, please do something amazing to me! >_<
 
