@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Unbridled Cynicism</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
+ <link href="{{ site.url }}{{ site.atom_path }}" rel="self"/>
  <link href="{{ site.url }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://j.furinkan.meidokon.net/</id>
+ <id>{{ site.url }}/</id>
  <author>
    <name>Furinkan</name>
    <email>furinkan@meidokon.net</email>

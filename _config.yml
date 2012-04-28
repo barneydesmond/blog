@@ -2,6 +2,7 @@ name:           Unbridled Cynicism
 description:    less bullshit, more often?
 url:            http://j.furinkan.meidokon.net
 destination:    /home/furinkan/public_html/j.furinkan.meidokon.net
+atom_path:      /feeds/atom.xml
 pygments:       true
 # MaRuKu can't do nested lists properly - https://github.com/mojombo/jekyll/issues/190
 markdown:       rdiscount
