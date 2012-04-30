@@ -1,0 +1,36 @@
+---
+layout: post
+title: BRS jeans
+vim: linebreak
+---
+
+{% include post_header.html %}
+
+I swear Cospa will be the death of me, with all their character goods that I want to buy. :/
+
+My [BRS jeans](http://www.cospa.com/detail/id/00000043643) arrived today, they're about as awesome as I hoped. I liked what I saw when they were announced for preorder a few months ago at [AmiAmi](http://www.amiami.com/top/detail/detail?scode=CGD2-23689), there's lots of nice subtle touchs in the design.
+
+Pictures first, other thoughts and notes below.
+
+{% insert_image brs_DS7_0376.jpg %}
+Caption: The shooting star motif in *BRS Blue* is the major point of interest, and it's abstract enough to avoid identifying you as a hopeless otaku. For better or worse, the badge will be hidden by your belt.
+
+{% insert_image brs_DS7_0377.jpg %}
+Caption: Star-shaped rivets are a really nice touch; a tiny but unmistakeable detail. The top button of the fly is plain, I think it would've been nice if were detailed or special in some way.
+
+{% insert_image brs_DS7_0379.jpg %}
+Caption: The bright blue contrast stitching looks great against the dark wash of the denim, and is used everywhere.
+
+{% insert_image brs_DS7_0387.jpg %}
+Caption: The checkerboard motif on the pocket linings is a bit of hidden fun.
+
+{% insert_image brs_DS7_0391.jpg %}
+Caption: Detail of the badge on the back of the waistband.
+
+{% insert_image brs_DS7_0393.jpg %}
+Caption: Breaking chainlinks are stitched into the back left pocket, subtle enough to go unnoticed by mere mortals.
+
+In all, very nice (as you'd hope for about 16,000yen before shipping). Guessing the correct size is always a bit of a hit-and-miss affair, I think I got pretty close.
+
+The waistband feels a bit wide, it's not touching my body at all. It *is* sitting about right on the hips though, so I blame my skinny waist. The belt will fix that, but it'll be stiff for a little while.
+
