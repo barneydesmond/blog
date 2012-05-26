@@ -39,6 +39,11 @@ p {
   margin: 1em 0;
 }
 
+blockquote {
+  margin-left:  2em;
+  margin-right: 2em;
+}
+
 
 
 a, a:visited {
@@ -282,6 +287,11 @@ ul, ol {
   #post ul,
   #post ol {
     margin-left: 1.35em;
+  }
+
+  #post li {
+    margin-top:    0.5em;
+    margin-bottom: 0.5em;
   }
 
   /* terminal */
