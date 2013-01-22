@@ -35,5 +35,5 @@ Caption: Travellers!
 We don't have internet access yet, but we managed to get to Akiba and crash at the hotel. We're at Via Inn, the same place I stayed in when I last visited with Omochikaeri nine months ago.
 
 {% insert_image DS8_0604.jpg %}
-Caption: We're on level 3 this time, which means our lukcy font is Rotis Sans Serif. Akira will be pleased.
+Caption: We're on level 3 this time, which means our lucky font is Rotis Sans Serif. Akira will be pleased.
 
