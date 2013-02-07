@@ -151,7 +151,9 @@ The new designs are pretty fantastic. They look great, and they're a welcome way
 
 I think I need to review Eva 2.0 and then watch 3.0 again, I really need to join up the timeline better. Oh yes, and closure. Word on the street is that the **Q** in Eva:Q is meant to be 急 (pronounced like 'Q'). This is a reference to [Jo-ha-kyuu](http://en.wikipedia.org/wiki/Jo-ha-ky%C5%AB), a concept found primarily in traditional Japanese theatre, referring to pacing and theme of each act. Each component corresponds roughly to Beginning, Conflict, Resolution, with a quickening of pace as things proceed.
 
-The unsatisfying thing about Eva:Q is that it's *not* a resolution. It definitely didn't answer all the questions, and it's well known that there's a fourth and final instalment in the pipeline. My hopes remain high, but I really wonder what they have in mind. So long as the fans don't feel betrayed by the last movie, Gainax should be able to dodge a repeat of the vandalism and death threats that happened a decade ago.
+The unsatisfying thing about Eva:Q is that it's *not* a resolution, yet. Well, it's well known that there's a fourth and final instalment in the pipeline, with a name of *MUSICAL_NOTATION_SYMBOL*. Yeah, the symbol is the "return to an earlier place in the piece" marker, we don't know how to pronounce it until it's officially announced :<
+
+My hopes remain high, but I really wonder what they have in mind. So long as the fans don't feel betrayed by the last movie, Gainax should be able to dodge a repeat of the vandalism and death threats that happened a decade ago.
 
 {% insert_image 20121225_194307.jpg %}
 Caption: They were giving out these fantastic postcards to viewers, this is a fine sample of my terrible handwriting trying to look girly. Damn girl, you lookin' fiiiine.
@@ -159,7 +161,7 @@ Caption: They were giving out these fantastic postcards to viewers, this is a fi
 
 ## Hunger pangs
 
-As we got back to the hotel we noticed the neibouring building just to the west was open for business (it was closed by the time we arrived last night). It turns out that Via Inn is next to a [maid cafe and relaxation](http://www.mia-studio.com/) place. Huh, that's new.
+As we got back to the hotel we noticed the neighbouring building just to the west was open for business (it was closed by the time we arrived last night). It turns out that Via Inn is next to a [maid cafe and relaxation](http://www.mia-studio.com/) place. Huh, that's new.
 
 Ast was content to sit at the hotel watching shitty TV, but I was hungry again and it was getting on to about 1am. I went wandering in Akiba to see what could be had.
 
