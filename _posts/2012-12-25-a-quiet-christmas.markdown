@@ -171,4 +171,5 @@ KFC was closed, along with McDonalds, but I happily found a ramen joint not far 
 Caption: There were a surprising number of people at the restaurant for the hour. What the hell are you all doing here!
 
 
+**Damage for the day: 9,039 yen** with about 3,500 of that on food in various forms.
 
