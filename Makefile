@@ -20,7 +20,7 @@ jekyll:
 	@jekyll
 
 exif_summaries:
-	@git status | fgrep full | cut -d'/' -f3 | while read IMG ; do /bin/echo -e "{% insert_image $${IMG} %}\nCaption: $$(./exif_summary.sh img/full/$${IMG})\n" ; done
+	@git status | egrep "full.*jpg$$" | cut -d'/' -f3 | while read IMG ; do /bin/echo -e "{% insert_image $${IMG} %}\nCaption: $$(./exif_summary.sh img/full/$${IMG})\n" ; done
 
 add_photos:
 	git status | egrep -o '_posts.*' | head -1 | while read POST ; do fgrep DS8 "$$POST" | awk '{ print $$3 }' | while read PHOTO ; do git add "img/full/$$PHOTO" ; git add "img/thumb/$$PHOTO" ; done ; done
