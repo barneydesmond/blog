@@ -1,0 +1,69 @@
+---
+layout: post
+title: Rolling
+vim: linebreak
+---
+
+{% include post_header.html %}
+
+
+Let's get into this! dovac popped in to our hotel room sometime in the morning and we started on breakfast: that glorious baumkuchen.
+
+{% insert_image 20121227-DS8_0732.jpg %}
+Caption: They probably expect people to give these things as gifts, hence the wrapping. Not today!
+
+{% insert_image 20121227-DS8_0734.jpg %}
+Caption: Is that a kanji? Maybe it's some dude's scribble, I have no idea.
+
+{% insert_image 20121227-DS8_0736.jpg %}
+Caption: Once unwrapped, there's a fancy box inside.
+
+In the daze of last night I'm not sure what arrangements we made for cutting this thing up, but we've got a couple of plastic knives and a few forks. And some disposable chopsticks.
+
+The teeth of the plastic knife makes light work of the roll, and we slice it between each of the three "mounts". The outside is just the slightest bit crackly from the coating of powdered sugar, and it's nice and soft inside.
+
+{% insert_image 20121227-DS8_0742.jpg %}
+Caption: A close inspection of the surface shows regions of powder as well as glaze. We also direct the viewer's attention to the tiger-striping evident in the lateral cross-section.
+
+The question is obviously: **is it worth 1600yen for a ring of baumkuchen?** And of course the answer is, "it depends".
+
+I don't know any places at home where baumkuchen can be had, whereas you can get mass-produced ones here from the konbini for a couple hundred yen. Ast and I really like baumkuchen, so the perceived value goes up. I think the problem is that there's no middle ground, no way to pay a more moderate amount and get something of commensurate quality.
+
+Nenrinya's baumkuchen is very nicely made. The texture is good, and it's not too dry nor too moist. Konbini ones tend to get a little squashed, a little sodden from being in a plastic bag the whole time, and the sweetness feels a bit syrupy sometimes. That's not the case with this luxury product. Make no mistake, it's exceedingly rich (Ast and dovac couldn't finish their ring straight away), but it's well balanced.
+
+{% insert_image 20121227_113406.jpg %}
+Caption: That's some good baumkuchen!
+
+I can't fault them on the packaging and presentation in the store. You pay for that, and I don't mind paying for a degree of pleasure. I kind of wish the roll weren't so heavily packaged: it comes in a sealed plastic bag with a dessicant sachet, and it's an illusion that the baumkuchen is actually produced in the store. If they made them in-store, like a proper bakery, that'd be great.
+
+{% insert_image 20121227_122824.jpg %}
+Caption: \*sigh\* This is basically the best coffee I can readily get in Japan...
+
+{% insert_image 20121227-DSCF3553.jpg %}
+Caption: Something tells me that if I stole this car, the security plate would be the least of my worries. This was some dude's crazy extremism-mobile, the windscreen was decorated with the old-school sunburst Japanese flag and bits of Imperial paraphenalia.
+
+{% insert_image 20121227-DSCF3557.jpg %}
+Caption: This is a pretty good looking Nyarlko figure.
+
+{% insert_image 20121227-DSCF3558.jpg %}
+Caption: Not sure if it's intentional or not, but this lamp over the counter at the Volks store looked like a flying saucer to me.
+
+I took my leave while everyone else was happy to keep trolling around Akiba, I had things in mind that I was really after. Iosys is a little store on the main drag selling personal electronics and whatnot, and it's there that I found a replica Galaxy Note 2, for just 999yen. I don't know exactly how I'll use it yet, but it might make a decent stand-in for a pokecom for Robotics;Notes cosplay.
+
+Everything's open until about 8pm, so I'm off to Cospa and Cospatio next. My cosplay is weighing heavily on my mind - I don't have any suitable wigs yet, and I'm still missing various accoutrements. There's a half-decent one for Frau here, though it's not 100% exactly what I'm after. Still, it'll do nicely. 9,849yen later, I'm out of there and back to the hotel. It's quite cold, and I'm getting hungry.
+
+{% insert_image FB_IMG_13566149547122735.jpg %}
+Caption: The wig comes in a pretty neat box, and it's well-labelled for everyone's sanity. \o/ And the Note 2 is still huge.
+
+The crew is still out and about so it's time to take matters into my own hands: I'm really in the mood for some chicken, and there's a KFC right under the east-west rail bridge just off the main drag. I've got no idea how big the servings are, but the 1200yen deal is looking alright...
+
+I'm informed that there's going to be a small wait, and I'm given a free small drink by way of apology (nice!) while I take a seat. It's probably some 15 minutes until my number is called, but I don't care, it's warm and pleasant in here. To round out my meal I'm getting a Dr Pepper on the way back to the hotel.
+
+This is *delicious*. Also, huge. Today lesson is that 1200yen of KFC is quite a lot.
+
+{% insert_image 1356610412645.jpg %}
+Caption: Finished it all, like a boss.
+
+
+**Damage for the day: 19,945 yen** with 2,817 of that on food and 5,280 buying stuff for Omochikaeri.
+
