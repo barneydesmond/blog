@@ -19,7 +19,7 @@ There's a saying that goes, "a pistol is something you use to fight your way bac
 To understand this, one needs to realise that the barrel is underslung from the rest of the frame - the slide and ammunition feed is upside-down compared to a normal pistol, and the ejection port faces straight down. Maids considering the Hornisse *must* thoroughly assess its suitability for them. While the compact size and ambidextrous handling (provided for by a set of three-dot sights on *both* sides of the frame) are definite virtues, the downwards ejection port makes it unsuitable for those handling food, and the three-finger grip may be uncomfortable for some operators. Maids with average or larger-than-average sized hands would be advised to stay with their [Px4](http://en.wikipedia.org/wiki/Beretta_Px4_Storm) or [Five-seveN](http://en.wikipedia.org/wiki/FN_Five-seven).
 
 
-Now, where was I? Yes, **machine pistols**. CHOCO's [most recent posts](http://chocolateshop-float.com/works/hornisse/) show what appears to be an adaption kit for the [M1911A1](http://en.wikipedia.org/wiki/File:M1911-M1911A1.JPG). What's that, I hear you say? A [machine pistol](http://en.wikipedia.org/wiki/Machine_pistol) in [.45 ACP](http://en.wikipedia.org/wiki/.45_ACP)!? But that's madness!
+Now, where was I? Yes, **machine pistols**. CHOCO's [most recent posts](http://chocolateshop-float.com/works/hornisse/) show what appears to be an adaption kit for the [M1911A1](http://commons.wikimedia.org/wiki/File:M1911_and_M1911A1_pistols.JPG). What's that, I hear you say? A [machine pistol](http://en.wikipedia.org/wiki/Machine_pistol) in [.45 ACP](http://en.wikipedia.org/wiki/.45_ACP)!? But that's madness!
 
 {% insert_image marichiten_pair.jpg %}
 Caption: Pair of model Marichiten 45 Autos
