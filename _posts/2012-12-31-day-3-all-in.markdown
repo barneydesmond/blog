@@ -1,0 +1,145 @@
+---
+layout: post
+title: "Day 3: All In"
+vim: linebreak
+published: no
+---
+
+{% include post_header.html %}
+
+Alright, I'm pumped for this! Seriously, if I don't at least go check out some cosplay or something I'll feel bad. That and I promised to buy some stuff for people.
+
+
+ * Went to Comiket late, around 1pm, with Rick-Dom
+ * Saw some cosplay, didn't take photos of much
+
+
+{% insert_image 20121231-DS8_0816.jpg %}
+Caption: Shooting out here is kinda tough, the sun is really harsh. The umbrella catches it very nicely though, making for a really soft backlight. Not sure what character she is.
+
+{% insert_image 20121231-DS8_0817.jpg %}
+Caption: K-On! is popular as ever, I need Ast to tell me if the guitar is accurate. :3
+
+{% insert_image 20121231-DS8_0818.jpg %}
+Caption: Happy to see a Kurisu here, though she's a tiny bit sloppy.
+
+{% insert_image 20121231-DS8_0823.jpg %}
+Caption: I love watching the crowd from up here, it's like playing Where's Wally. Can you spot a pair from Angel Beats? How many Inu x Boku cosplayers? An original TV series Asuka in school uniform? A maid? Naked Snake? Yoko's huge gun? Madoka in school uniform?
+
+ * Rolled around West halls real chill, picked up stuff for Retro and Omochikaeri
+
+{% insert_image 20121231-1356936274045.jpg %}
+Caption: Hm I guess 5/4TAKEPOD is sold out then...
+
+ * Random CD acquisitions, Brilliantez and something else
+
+{% insert_image 20121231-DS8_0835.jpg %}
+Caption: At the end of the day, just... relaxing.
+
+ * Photos of sunset over Ariake
+
+{% insert_image 20121231-DS8_0847.jpg %}
+Caption: The sun's dropping quickly, and it's barely 16:30.
+
+{% insert_image 20121231-DS8_0855.jpg %}
+Caption: Cool jacket, bro. Actually, I do wonder what the Japanese know/think about 'Nam.
+
+{% insert_image 20121231-DS8_0858.jpg %}
+Caption: Taking it easy, having a smoke.
+
+{% insert_image 20121231-DS8_0871.jpg %}
+Caption: Sitting at the ferry terminal next to Big Sight after a long day. The ferris wheel belongs to Tokyo Leisure Land over on the next artificial island, Daiba.
+
+{% insert_image 20121231-DS8_0883.jpg %}
+Caption: This thing is a bloody eyesore!
+
+{% insert_image 20121231-DS8_0893.jpg %}
+Caption: [Kanojo ga Flag wo Oraretara](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9524) sounds like a typically awful light novel plot. Buuuut the kinpatsu-kko with checked skirt and zettai ryouiki is raising all my flags, and the illustrations *are* by CUTEG so...
+
+ * Second season of Railgun has been announced, posters
+
+{% insert_image 20121231-DS8_0894.jpg %}
+Caption: Woooah is that what I think it is!?
+
+{% insert_image 20121231-DS8_0895.jpg %}
+Caption: **HOLY SHIT IT IS, A SECOND SEASON OF RAILGUN FUKKEN YESSSSSS!**
+
+{% insert_image 20121231-DS8_0897.jpg %}
+Caption: Twintail~ <3
+
+{% insert_image 20121231-DS8_0902.jpg %}
+Caption: Crossing the bridge between the station and the dorm, that's the Rainbow Bridge off in the distance.
+
+ * Got dinner at western restaurant in UDX building. Yay for new years eve
+
+{% insert_image 20121231-20121231_194316.jpg %}
+Caption: I've had mango beer plenty of times back home, it's nice. I know what the others are and I'm not keen on the concepts, so I'm going to try a Shandy Gaff.
+
+Here goes nothing...
+
+{% insert_image 20121231-DS8_0912.jpg %}
+Caption: My shandy gaff has arrived. I can't tell if there's any beer in there or not. I *think* there is?
+
+{% insert_image 20121231-20121231_200230.jpg %}
+Caption: A safe choice, a burger.
+
+{% insert_image 20121231-DS8_0916.jpg %}
+Caption: Asahi's attempt at Guinness. It's not bad, but not as heavy, and the head really doesn't last.
+
+{% insert_image 20121231-DS8_0921.jpg %}
+Caption: I'm too lazy to read all this, but I can see that she's reading an ero-doujin and... I'm guessing there's a sale over the new year period.
+
+ * Stayed out in Akiba for new years roll over, with Blitz and crew
+ * Dr Pepper for a toast
+
+{% insert_image 20121231-20121231_235917.jpg %}
+Caption: We don't have any wine or champagne to celebrate with, so Dr Pepper will have to do.
+
+ * Gamers had a countdown, and sold fukubukuro
+
+{% insert_image 20130101-20130101_001044.jpg %}
+Caption: You're not really meant to peek into the fukubukuro. Not that it really matters, there's so much stuff in there that you can't easily tell if you've got something worthwhile.
+
+{% insert_image 20130101-DS8_0941.jpg %}
+Caption: The first buyer is out of the store!
+
+ * Hung around for about half an hour watching people trade stuff
+
+{% insert_image 20130101-DS8_0949.jpg %}
+Caption: Oh my God this girl was such a bro! She's an IM@S producer and madly in love with Yukiho.
+
+ * Some silly things happen as well
+
+{% insert_image 20130101-DS8_0966.jpg %}
+Caption: This "lucky" chap collected over a dozen copies of Lucky Star Vol.9 from other people, I guess it really didn't sell well in store.
+
+{% insert_image 20130101-DS8_0994.jpg %}
+Caption: Same girl again, with aalllll the Idolm@ster.
+
+{% insert_image 20130101-DS8_1004.jpg %}
+Caption: Suwa-ko mascot
+
+ * Headed back to Shin-Kiba, ended up not doing karaoke for new years rollover
+ * Ageha is running a New Years Eve party, admission is 6000 yen!
+
+{% insert_image 20130101-DS8_1005.jpg %}
+Caption: Looking for her train.
+
+{% insert_image 20130101-DS8_1007.jpg %}
+Caption: Trekking through Tokyo station.
+
+{% insert_image 20130101-DS8_1008.jpg %}
+Caption: I'm always on the lookout for style, not disappointed here.
+
+{% insert_image 20130101-DS8_1014.jpg %}
+Caption: dovac, twins, clearfile, active mover
+
+{% insert_image 20130101-DS8_1015.jpg %}
+Caption: other side
+
+{% insert_image 20130101-DS8_1017.jpg %}
+Caption: active mover stick poster
+
+{% insert_image 20130101-DS8_1018.jpg %}
+Caption: And the book (kurokami longhair)
+
