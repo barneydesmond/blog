@@ -26,7 +26,7 @@ Caption: Accelerator and Biribiri.
 Caption: Cooling off in front of these handy water misting fans.
 
 {% insert_image 20130810-IMGP0347.jpg %}
-Caption: Not sure who her character is, suspecting a Vocaloid.
+Caption: Not sure who her character is, suspecting a Vocaloid. *Edit: apparently she's Kurumi from [Date A Live](http://en.wikipedia.org/wiki/Date_A_Live).*
 
 {% insert_image 20130810-IMGP0348.jpg %}
 Caption: I'm drawing a blank on this character :(
