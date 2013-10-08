@@ -2,7 +2,6 @@
 layout: post
 title: Mutsu and Shimokita peninsula
 vim: linebreak
-published: no
 ---
 
 {% include post_header.html %}
