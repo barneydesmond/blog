@@ -8,7 +8,15 @@ vim: linebreak
 
 To be written.
 
-#CockatooIsland #heat #niceandcoolindoorsthough #lolivampire #donuts
+\#CockatooIsland
+
+\#heat
+
+\#niceandcoolindoorsthough
+
+\#lolivampire
+
+\#donuts
 
 {% insert_image 20131010-DS8_5655-CosEdit.jpg %}
 Caption: 1/250 sec. at f/2.0, ISO 7184, 105.0 mm on NIKON D800
