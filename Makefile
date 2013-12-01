@@ -9,6 +9,9 @@ img/thumb/%.png: img/full/%.png
 img/thumb/%.gif: img/full/%.gif
 	convert -resize 320x99999\> $< $@
 
+img/thumb/%.psd:
+	@true
+
 
 all: thumbs jekyll
 

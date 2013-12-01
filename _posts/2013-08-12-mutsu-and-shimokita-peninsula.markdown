@@ -46,6 +46,9 @@ Over dinner and coffee (Mein Gott, he knows about real coffee, ground and brewed
 
 Shimokita, while not heavily populated, has a good amount of things to see and do. Osorezan is obviously the main attraction, but there's a lot of forest and a few hot springs tucked away in there. The northeastern corner of the peninsula has horses, and all around the coastline are little fishing towns that do good seafood. He's got a photo album with lots of pictures of visitors that have stayed at Muu and been out to experience the attractions, it's pretty cool.
 
+{% insert_image 20130812-shimokita.png %}
+Caption: Shimokita landmarks and the route to Mutsu.
+
 On the way up to Shimokita from Aomori, along the the "axe handle" of the peninsula, I spotted a wind turbine farm (this won't make any sense unless you've seen [Raildex](http://en.wikipedia.org/wiki/A_Certain_Magical_Index), but I really wanted to get out and have a closer look, but didn't have time). I mention this to Nakagawa-san, and he tells me that there's also nuclear facilities on the peninsula as well. He thinks the wind stuff is propaganda for the nuclear stuff, and being in Japan I don't blame him. Three nuclear facilities and three wind farms, if I understood him correctly. Higashidouri on the eastern side, Ouma up in the northwest corner, and a fuel processing plant in Rokkasho near the base of the peninsula. I'm still gonna see one of the wind farms, one way or another.
 
 Osorezan really isn't a long way from Mutsu, so I'll have plenty of time to drive around. If I'm stuck for ideas, I'm told I should go drive around the northern coastline. He recommends a little place with good food, and I pick up my first bit of new terminology. I should look out for intersection with traffic lights, the restaurant is on the corner next to a GS - a *Gasoline Stand*.
