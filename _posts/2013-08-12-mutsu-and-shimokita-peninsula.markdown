@@ -53,6 +53,9 @@ On the way up to Shimokita from Aomori, along the the "axe handle" of the penins
 
 Osorezan really isn't a long way from Mutsu, so I'll have plenty of time to drive around. If I'm stuck for ideas, I'm told I should go drive around the northern coastline. He recommends a little place with good food, and I pick up my first bit of new terminology. I should look out for intersection with traffic lights, the restaurant is on the corner next to a GS - a *Gasoline Stand*.
 
+{% insert_image 20130812-IMGP6268.jpg %}
+Caption: In true Japanese style, a hand drawn map with readily identifiable markers as waypoints. Distances are measured in driving time rather than kilometres, because that's apparently how they roll.
+
 Muu is a peaceful place, moreso after I switch off the gently humming fan. The only noise in the bedroom comes from the insects, kept safely outside by a flyscreen.
 
 It's cooled off somewhat into the high twenties, and still humid enough to tickle the skin, but it's definitely pleasant now. Having just switched off the gently humming fan, I shut my eyes and take it all in. The insects, kept firmly outside by the flyscreen, are the only source of noise at Muu. That and my own breathing, which I'm now acutely aware of as I slow down and absorb the rich smell of the timber. If I strain really hard I can just make out the faint clicking of the air ioniser over next to the doorway, but with that thought I let go and slip into sleep.
