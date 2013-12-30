@@ -100,7 +100,7 @@ It really looks like anything *but* Hell at the water's edge. The sands are clea
 Caption: The shoreline curves gently away into the distance~
 
 {% insert_image 20130813-DS8_4878.jpg %}
-Caption: I'm not quite sure of the symbolism here, but this looks like another Jizou statue, this time inside a lotus-shaped cocoon with an altar in front. It looks like offerings are made or burnt at the altar, but I'm not sure what sort.
+Caption: I'm not quite sure of the symbolism here, but this looks like another Jizou statue, this time inside a lotus-shaped cocoon with an altar in front. This is part of a memorial to the many victims of the great earthquake in 2011.
 
 The quietness of the lake is punctuated by the sharp peal of a bell next to the lotus statue where people come to pray. In Japanese Buddhism, Jizou is a guardian of lost souls, particularly those of children who died before their parents or were stillborn. There's not a lot of people here, but it mostly looks like families, and the kids are more than happy to ring the bell. It's a pure and crystal clear sound, just like the waters.
 
