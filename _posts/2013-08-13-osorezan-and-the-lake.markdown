@@ -100,9 +100,9 @@ It really looks like anything *but* Hell at the water's edge. The sands are clea
 Caption: The shoreline curves gently away into the distance~
 
 {% insert_image 20130813-DS8_4878.jpg %}
-Caption: I'm not quite sure of the symbolism here, but this looks like another Jizou statue, this time inside a tulip-shaped cocoon with an altar in front. It looks like offerings are made or burnt at the altar, but I'm not sure what sort.
+Caption: I'm not quite sure of the symbolism here, but this looks like another Jizou statue, this time inside a lotus-shaped cocoon with an altar in front. It looks like offerings are made or burnt at the altar, but I'm not sure what sort.
 
-The quietness of the lake is punctuated by the sharp peal of a bell next to the tulip statue where people come to pray. In Japanese Buddhism, Jizou is a guardian of lost souls, particularly those of children who died before their parents or were stillborn. There's not a lot of people here, but it mostly looks like families, and the kids are more than happy to ring the bell. It's a pure and crystal clear sound, just like the waters.
+The quietness of the lake is punctuated by the sharp peal of a bell next to the lotus statue where people come to pray. In Japanese Buddhism, Jizou is a guardian of lost souls, particularly those of children who died before their parents or were stillborn. There's not a lot of people here, but it mostly looks like families, and the kids are more than happy to ring the bell. It's a pure and crystal clear sound, just like the waters.
 
 As I make my way back up from the lake I notice a little path off to the northwest. It's not heavily trodden but it's definitely a thing. I'm curious, so I decide to follow it for a bit. Around some bushes it opens into a small shady spot under the overhanging branches of a big tree. There's a bit of refuse scattered around and it's obvious it's too out-of-the-way to get cleaned up very much, but it's a nice place. A lazy breeze rolls through from across the lake and the sound of a bubbling stream fills the air.
 
