@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Air Gear cosplay shoot
+title: Air Gear photoshoot
 vim: linebreak
 ---
 
