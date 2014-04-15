@@ -3,17 +3,10 @@ layout: default
 title: Unbridled Cynicism
 ---
 
-<h1 style="margin-top: 2em;">List of all posts</h1>
+<h2 style="margin-top: 2em;">List of all posts</h2>
 
-{% for year in site.years reversed %}
-  <h2>{{ year.first.first.date | date: "%Y" }}</h2>
-  {% for month in year reversed %}
-    <h3>{{ month.first.date | date: "%m - %B" }}</h3>
-    <ul class="posts">
-    {% for post in month %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-  {% endfor %}
+<ul class="posts">
+{% for post in site.posts %}
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-
+</ul>
