@@ -1,30 +1,29 @@
 .PHONY: thumbs jekyll
 
-img/thumb/%.jpg: img/full/%.jpg
+_img_thumb/%.jpg: _img_full/%.jpg
 	convert -resize 320x99999\> $< $@
 
-img/thumb/%.png: img/full/%.png
+_img_thumb/%.png: _img_full/%.png
 	convert -resize 320x99999\> $< $@
 
-img/thumb/%.gif: img/full/%.gif
+_img_thumb/%.gif: _img_full/%.gif
 	convert -resize 320x99999\> $< $@
-
-img/thumb/%.psd:
-	@true
 
 
 all: thumbs jekyll
 
 
 
-thumbs: $(patsubst img/full/%,img/thumb/%,$(wildcard img/full/*))
+thumbs: $(patsubst _img_full/%,_img_thumb/%,$(wildcard _img_full/*.gif) $(wildcard _img_full/*.png) $(wildcard _img_full/*.jpg))
 
 jekyll:
 	@jekyll
+	ln -s /home/furinkan/blog/_img_thumb /home/furinkan/public_html/j.furinkan.meidokon.net/img/thumb
+	ln -s /home/furinkan/blog/_img_full  /home/furinkan/public_html/j.furinkan.meidokon.net/img/full
 
 exif_summaries:
 	@git status | egrep "full.*jpg$$" | cut -d'/' -f3 | while read IMG ; do /bin/echo -e "{% insert_image $${IMG} %}\nCaption: $$(./exif_summary.sh img/full/$${IMG})\n" ; done
 
 add_photos:
 	git status | egrep -o '_posts.*' | head -1 | while read POST ; do egrep 'DS8|DSCF' "$$POST" | awk '{ print $$3 }' | while read PHOTO ; do git add "img/full/$$PHOTO" ; git add "img/thumb/$$PHOTO" ; done ; done
-
+	# fgrep '{% insert_image' _posts/2013-08-13-yagen-valley-and-chasing-the-kappa.markdown | awk '{ print $3 }' | while read PHOTO ; do echo git add "img/full/$PHOTO" ; echo git add "img/thumb/$PHOTO" ; done
