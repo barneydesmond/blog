@@ -1,13 +1,13 @@
 .PHONY: thumbs jekyll
 
 _img_thumb/%.jpg: _img_full/%.jpg
-	convert -resize 320x99999\> $< $@
+	convert -resize 480x99999\> $< $@
 
 _img_thumb/%.png: _img_full/%.png
-	convert -resize 320x99999\> $< $@
+	convert -resize 480x99999\> $< $@
 
 _img_thumb/%.gif: _img_full/%.gif
-	convert -resize 320x99999\> $< $@
+	convert -resize 480x99999\> $< $@
 
 
 all: thumbs jekyll
