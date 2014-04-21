@@ -306,6 +306,13 @@ ul, ol {
     background-color: #333;
   }
 
+  #post p.inline-embed img {
+    max-width: 100%;
+    display: block;
+    margin-left:  auto;
+    margin-right: auto;
+  }
+
 #related {
   margin-top: 2em;
 }
