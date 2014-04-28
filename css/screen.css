@@ -196,6 +196,14 @@ ul.posts span {
     margin-top: 1.1em;
     float: right;
   }
+  .site #contact-details .links a.sns-icon {
+    text-decoration: none;
+  }
+  .site #contact-details .links a.sns-icon img {
+    border: 0;
+    width: 16px;
+    height: 16px;
+  }
 
 
 
