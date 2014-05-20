@@ -277,23 +277,26 @@ Caption: Sunset over the fields, beautiful warm breeze, perfection and peace and
 {% insert_image 20130815-068-DS8_5073.jpg %}
 Caption: Overturned truck, not sure if it fell here or somehow slipped that way off the roadside.
 
-{% insert_image 20130815-069-DS8_5076.jpg %}
-Caption: The road is in decent repair, and there's a good amount of traffic, but it's an interesting juxtaposition of the present, and when time stopped two and a half years ago. What are all these people doing, where are they driving to anyway?
+The road is in decent repair, and there's a good amount of traffic, but it's an interesting juxtaposition of the present, and when time stopped two and a half years ago. What are all these people doing, where are they driving to anyway?
 
-{% insert_image 20130815-070-DS8_5080.jpg %}
+{% insert_image 20130815-069-DS8_5076.jpg %}
 Caption: I can't really tell what this place used to be. I'm guessing a pachinko parlour, but I can't imagine why it's been so thoroughly gutted. I'd guess it was the elements, but plenty of glass seems to be intact. It just doesn't make much sense.
 
-{% insert_image 20130815-071-IMGP0679.jpg %}
+{% insert_image 20130815-070-DS8_5080.jpg %}
 Caption: Aqua parked on the roadside, looking fantastic
 
-{% insert_image 20130815-072-IMGP0680.jpg %}
+{% insert_image 20130815-071-IMGP0679.jpg %}
 Caption: Wasabi cracker things? I got them from the apple place
 
 It's late but I get my arse off my hotel bed and make it to the restaurant, it's thankfully not too late. They're meant to be good, but ordering food is a bit of a test.
 
-{% insert_image 20130815-073-IMGP0683.jpg %}
+{% insert_image 20130815-072-IMGP0680.jpg %}
 Caption: Dumplings! And beer.
 
-{% insert_image 20130815-074-IMGP0682.jpg %}
+{% insert_image 20130815-073-IMGP0683.jpg %}
 Caption: OMG dat chewy chewy meat is SO GOOD right now
 
+{% insert_image 20130815-074-IMGP0682.jpg %}
+Caption: The full dinner set.
+
+I really can't read the menu, and after spending at least 15min looking up what are probably very common kanji, I order something I can actually read and reasonably get the pronunciation of (and still made a mistake I was corrected on)
