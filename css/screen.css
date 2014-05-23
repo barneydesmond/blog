@@ -116,7 +116,7 @@ ul.posts span {
 /* padding: top right bottom left */
 
 .site {
-  width: 70em;
+  width: 800px;
   background: #222222;
   margin: 2em auto 2em auto;
   text-align: justify;
@@ -140,7 +140,7 @@ ul.posts span {
 
   .site .title h1 {
     margin: auto;
-    padding-top: 1.5em;
+    padding-top: 1em;
     padding-left: 0px;
     font-size: 3em;
   }
@@ -213,26 +213,8 @@ ul.posts span {
 
 
 
-.content-full-width {
-  /*border: 1px solid black;*/
-  margin-top: 2em;
-  margin-left: 2.5em;
-  margin-bottom: 3em;
-  width: 60em;
-  float: left;
-  display: inline;
-  line-height: 1.4em;
-}
-
-.content-full-width p, .content-full-width li {
-  line-height: 1.4em;
-}
-
-
-
 
 .content {
-  /*border: 1px solid black;*/
   margin-top: 2em;
   margin-left: 2.5em;
   margin-bottom: 3em;
@@ -260,22 +242,6 @@ ul.posts span {
 }
 
 
-
-
-.sidebar {
-  /*border: 1px solid red;*/
-  margin-top: 2em;
-  margin-right: 2.5em;
-  margin-bottom: 3em;
-  width: 21em;
-  float: right;
-  display: inline;
-  text-align: left;
-}
-
-.sidebar .widget .blurb {
-	padding-left: 1em;
-}
 
 
 ul, ol {
