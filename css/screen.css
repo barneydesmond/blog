@@ -120,13 +120,22 @@ ul.posts span {
   background: #222222;
   margin: 2em auto 2em auto;
   text-align: justify;
+  -webkit-box-shadow: 10px 10px 5px -4px rgba(24,24,48,0.85);
+  -moz-box-shadow:    10px 10px 5px -4px rgba(24,24,48,0.85);
+  box-shadow:         10px 10px 5px -4px rgba(24,24,48,0.85);
+  -webkit-border-radius: 10px;
+  -moz-border-radius:    10px;
+  border-radius:         10px;
 }
 
 
 .site .title {
-  background: black;
+  background: #111111;
   padding-left: 45px;
   padding-right: 45px;
+  -webkit-border-radius: 10px 10px 0px 0px;
+  -moz-border-radius:    10px 10px 0px 0px;
+  border-radius:         10px 10px 0px 0px;
 }
 
   .site .title h1 {
