@@ -30,6 +30,8 @@ body {
 
 
 h1,h2,h3,h4,h5,h6 {
+  font-family: "DIN Pro Medium", Arial, Helvetica, sans-serif;
+  font-weight: normal;
   margin-top: 1em;
   margin-bottom: 1em;
 }
@@ -52,7 +54,6 @@ a, a:visited {
 	outline: none;
 }
 a:hover {
-	color: #81c8d5;
 	text-decoration: underline;
 }
 a img {
@@ -132,9 +133,7 @@ ul.posts span {
     margin: auto;
     padding-top: 1.5em;
     padding-left: 0px;
-    font-family: "DIN Pro Light", Arial, Helvetica, sans-serif;
     font-size: 3em;
-    font-weight: normal;
   }
 
   .site .title a, .site .title a:visited {
@@ -142,7 +141,7 @@ ul.posts span {
     text-decoration: none;
   }
   .site .title a:hover {
-    color: #81c8d5;
+    color: #778eaa;
     text-decoration: none;
   }
 
@@ -155,20 +154,17 @@ ul.posts span {
 
 
 .site .linkbar {
-  background: #dddddd;
+  background: #555555;
   padding-left: 45px;
   padding-right: 45px;
 }
 
   .site .linkbar .linkbar-link {
     margin: auto;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    border-left: 2px solid #cccccc;
-    border-right: 2px solid #cccccc;
+    padding-left: 1em;
+    padding-right: 1em;
     font-family: "DIN Pro Light", Arial, Helvetica, sans-serif;
-    font-size: 1.5em;
-    font-weight: bold;
+    font-size: 2em;
   }
 
 
@@ -287,7 +283,6 @@ ul, ol {
 
 #post {
   line-height: 2.4em;
-
 }
 
   /* standard */
