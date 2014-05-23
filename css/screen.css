@@ -118,7 +118,7 @@ ul.posts span {
 .site {
   width: 800px;
   background: #222222;
-  margin: 2em auto 2em auto;
+  margin: 1em auto 2em auto;
   text-align: justify;
   -webkit-box-shadow: 10px 10px 5px -4px rgba(24,24,48,0.85);
   -moz-box-shadow:    10px 10px 5px -4px rgba(24,24,48,0.85);
