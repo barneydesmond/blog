@@ -87,9 +87,11 @@ table {
 /* Homepage/frontpage */
 /**********************/
 
+ul {
+  list-style-type: none;
+}
 
 ul.posts {
-  list-style-type: none;
   margin-bottom: 2em;
 }
 
@@ -103,7 +105,16 @@ ul.posts span {
   font-size: 80%;
 }
 
+span.datestamp {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
 
+
+ul.interests {
+  list-style-type: disc;
+}
 
 
 
@@ -170,10 +181,17 @@ ul.posts span {
 
   .site .linkbar .linkbar-link {
     margin: auto;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
     font-family: "DIN Pro Light", Arial, Helvetica, sans-serif;
     font-size: 2em;
+  }
+  .site .linkbar .linkbar-link-small {
+    margin: auto;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    font-family: "DIN Pro Light", Arial, Helvetica, sans-serif;
+    font-size: 1.25em;
   }
 
 
