@@ -2,6 +2,7 @@
 layout: post
 title: Megane and Radio Kaikan
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

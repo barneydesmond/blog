@@ -2,6 +2,7 @@
 layout: post
 title: Himenokouji Akiko at Mount Wilson
 vim: linebreak
+tags: Photography Cosplay
 ---
 
 {% include post_header.html %}

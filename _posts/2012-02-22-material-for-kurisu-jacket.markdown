@@ -2,6 +2,7 @@
 layout: post
 title: Material for Kurisu jacket
 vim: linebreak
+tags: Cosplay
 ---
 
 {% include post_header.html %}

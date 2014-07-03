@@ -2,6 +2,7 @@
 layout: post
 title: Sculpture by the Sea
 vim: linebreak
+tags: Photography
 ---
 
 {% include post_header.html %}

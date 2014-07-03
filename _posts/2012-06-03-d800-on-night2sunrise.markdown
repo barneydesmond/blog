@@ -2,6 +2,7 @@
 layout: post
 title: D800 on Night2Sunrise
 vim: linebreak
+tags: Photography
 ---
 
 {% include post_header.html %}

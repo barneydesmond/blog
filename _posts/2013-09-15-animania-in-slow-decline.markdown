@@ -2,6 +2,7 @@
 layout: post
 title: Animania in slow decline
 vim: linebreak
+tags: Photography Cosplay
 ---
 
 {% include post_header.html %}

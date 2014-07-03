@@ -2,6 +2,7 @@
 layout: post
 title: Mutsu and Shimokita peninsula
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

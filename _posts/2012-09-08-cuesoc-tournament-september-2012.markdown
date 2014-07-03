@@ -2,6 +2,7 @@
 layout: post
 title: CueSoc Tournament September 2012
 vim: linebreak
+tags: Photography
 ---
 
 {% include post_header.html %}

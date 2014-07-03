@@ -2,6 +2,7 @@
 layout: post
 title: First play with the D800
 vim: linebreak
+tags: Photography
 ---
 
 {% include post_header.html %}

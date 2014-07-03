@@ -2,6 +2,7 @@
 layout: post
 title: Getting to Tokyo
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

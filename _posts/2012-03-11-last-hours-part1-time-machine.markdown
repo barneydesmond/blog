@@ -2,6 +2,7 @@
 layout: post
 title: Last hours - Time machine
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

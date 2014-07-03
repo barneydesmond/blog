@@ -2,6 +2,7 @@
 layout: post
 title: Yagen valley and chasing the kappa
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

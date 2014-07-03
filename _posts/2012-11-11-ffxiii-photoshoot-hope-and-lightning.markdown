@@ -2,6 +2,7 @@
 layout: post
 title: FFXIII photoshoot - Hope and Lightning
 vim: linebreak
+tags: Photography Cosplay
 ---
 
 {% include post_header.html %}

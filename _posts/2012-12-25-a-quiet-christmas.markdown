@@ -2,6 +2,7 @@
 layout: post
 title: A quiet Christmas of time-wasting and Eva
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

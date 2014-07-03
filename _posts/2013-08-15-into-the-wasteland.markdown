@@ -2,6 +2,7 @@
 layout: post
 title: Into the Wasteland
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

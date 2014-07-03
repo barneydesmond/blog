@@ -2,6 +2,7 @@
 layout: post
 title: Comiket 84 cosplay
 vim: linebreak
+tags: Photography Cosplay Travel
 ---
 
 {% include post_header.html %}

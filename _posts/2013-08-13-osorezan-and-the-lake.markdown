@@ -2,6 +2,7 @@
 layout: post
 title: Osorezan and the lake
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

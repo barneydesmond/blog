@@ -2,6 +2,7 @@
 layout: post
 title: Single-8 and wandering in Akiba
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

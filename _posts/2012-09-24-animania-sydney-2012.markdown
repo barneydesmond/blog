@@ -2,6 +2,7 @@
 layout: post
 title: Animania Sydney 2012
 vim: linebreak
+tags: Photography Cosplay
 ---
 
 {% include post_header.html %}

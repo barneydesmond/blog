@@ -2,6 +2,7 @@
 layout: post
 title: MikuPa and Daikanshasai
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: Last hours - Wacom
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

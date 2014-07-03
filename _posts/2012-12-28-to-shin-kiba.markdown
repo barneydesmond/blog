@@ -2,6 +2,7 @@
 layout: post
 title: To Shin-Kiba
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

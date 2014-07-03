@@ -2,6 +2,7 @@
 layout: post
 title: Say no to Comiket Day 2!
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

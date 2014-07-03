@@ -2,6 +2,7 @@
 layout: post
 title: Anya Kimochi scenester photoshoot
 vim: linebreak
+tags: Photography
 ---
 
 {% include post_header.html %}

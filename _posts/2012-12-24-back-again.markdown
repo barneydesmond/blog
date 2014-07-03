@@ -2,6 +2,7 @@
 layout: post
 title: Back again
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

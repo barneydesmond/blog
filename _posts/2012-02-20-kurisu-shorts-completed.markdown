@@ -2,6 +2,7 @@
 layout: post
 title: Kurisu shorts completed
 vim: linebreak
+tags: Cosplay
 ---
 
 {% include post_header.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: Misdo-rion Heart-under-donuts
 vim: linebreak
+tags: Photography Cosplay
 ---
 
 {% include post_header.html %}

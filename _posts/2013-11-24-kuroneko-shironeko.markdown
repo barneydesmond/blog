@@ -2,6 +2,7 @@
 layout: post
 title: Kuroneko／Shironeko
 vim: linebreak
+tags: Photography Cosplay
 ---
 
 {% include post_header.html %}

@@ -2,6 +2,7 @@
 layout: post
 title: Aomori and driving to Mutsu
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}

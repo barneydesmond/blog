@@ -2,6 +2,7 @@
 layout: post
 title: Ramen と Tarot と Kurisu
 vim: linebreak
+tags: Photography Cosplay Travel
 ---
 
 {% include post_header.html %}

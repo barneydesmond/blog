@@ -2,6 +2,7 @@
 layout: post
 title: Propmaking 9mm Parabellum casings
 vim: linebreak
+tags: Cosplay
 ---
 
 {% include post_header.html %}

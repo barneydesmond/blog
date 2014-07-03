@@ -2,6 +2,7 @@
 layout: post
 title: Lake Towada and back to Sendai
 vim: linebreak
+tags: Photography Travel
 ---
 
 {% include post_header.html %}
