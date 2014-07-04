@@ -2,7 +2,7 @@
 layout: post
 title: Ramen と Tarot と Kurisu
 vim: linebreak
-tags: Photography Cosplay Travel
+tags: Photography Cosplay Travel Japan201203
 ---
 
 {% include post_header.html %}
