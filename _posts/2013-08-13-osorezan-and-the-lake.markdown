@@ -2,7 +2,7 @@
 layout: post
 title: Osorezan and the lake
 vim: linebreak
-tags: Photography Travel
+tags: Photography Travel Japan201308
 ---
 
 {% include post_header.html %}

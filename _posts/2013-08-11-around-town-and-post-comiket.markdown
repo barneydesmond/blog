@@ -2,7 +2,7 @@
 layout: post
 title: Around town and post-Comiket
 vim: linebreak
-tags: Photography Travel
+tags: Photography Travel Japan201308
 ---
 
 {% include post_header.html %}
