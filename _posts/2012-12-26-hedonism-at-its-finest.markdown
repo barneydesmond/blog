@@ -2,7 +2,7 @@
 layout: post
 title: Hedonism at its finest
 vim: linebreak
-tags: Photography Travel
+tags: Photography Travel Japan201301
 ---
 
 {% include post_header.html %}
