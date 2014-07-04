@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unbridled Cynicism
+title: Unbridled Cynicism - Travel
 ---
 
 # Posts tagged with *Travel*

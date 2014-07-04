@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unbridled Cynicism
+title: Unbridled Cynicism - Photography
 ---
 
 # Posts tagged with *Photography*
