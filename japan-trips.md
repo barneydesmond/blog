@@ -31,6 +31,8 @@ Refer to the [other page](http://furinkan.meidokon.net/200801_japan/log.html).
 
 ## 2010-12 ~ 2011-01: Lulzfest with internet friends
 
+* `img/temp/2011_comiket_books/`
+* Comiket 79, cosplayed Kagamine Rin with Ayu
 * Hinamizawa
 * Zousan tunnels
 * The town used as the setting for... something mysteries in a high school, girl that wears heels
@@ -54,14 +56,14 @@ Refer to the [other page](http://furinkan.meidokon.net/200801_japan/log.html).
 * Rented cars
 * Drove around Sakurajima
 * Drove around Tanegashima
-* Comiket
+* Comiket 83
 
 {% for post in site.tags['Japan201301'] reversed %}
 * <span class="datestamp">{{ post.date | date_to_string }}</span> &raquo; [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 
-## 2013-08: Comiket in Summer, driving around Akita and Sendai
+## 2013-08: Comiket 84 in Summer, driving around Akita and Sendai
 
 {% for post in site.tags['Japan201308'] reversed %}
 * <span class="datestamp">{{ post.date | date_to_string }}</span> &raquo; [{{ post.title }}]({{ post.url }})
