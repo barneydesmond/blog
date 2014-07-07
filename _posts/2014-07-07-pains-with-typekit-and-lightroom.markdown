@@ -2,6 +2,7 @@
 layout: post
 title: Pains with Typekit and Lightroom
 vim: linebreak
+tags: Photography
 ---
 
 {% include post_header.html %}
