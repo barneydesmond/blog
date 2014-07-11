@@ -2,15 +2,12 @@
 layout: post
 title: POST_TITLE
 vim: linebreak
+tags: FIXME_AS_NEEDED Photography Cosplay Travel
 ---
 
 {% include post_header.html %}
 
-A flood of good things arrived today.
+Content goes here!
 
-* foo
-* bar
-* baz
-
-Then there's this, [which a colleague got from ebay](http://shortgirls.net/ZYZJYF)...
-
+{% insert_image sample_filename.jpg %}
+Caption: This is a sample caption
