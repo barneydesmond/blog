@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gun and Seifuku
 vim: linebreak
 tags: Photography Cosplay

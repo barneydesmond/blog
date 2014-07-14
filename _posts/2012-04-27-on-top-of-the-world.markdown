@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On top of the world
 vim: linebreak
 ---

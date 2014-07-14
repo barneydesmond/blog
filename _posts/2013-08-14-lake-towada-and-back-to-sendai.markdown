@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Lake Towada and back to Sendai
 vim: linebreak
 tags: Photography Travel Japan201308

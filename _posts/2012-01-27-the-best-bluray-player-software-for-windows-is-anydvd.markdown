@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The best bluray player software for Windows is AnyDVD
 ---
 

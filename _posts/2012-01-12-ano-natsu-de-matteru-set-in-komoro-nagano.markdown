@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ano Natsu de Matteru set in Komoro, Nagano
 ---
 

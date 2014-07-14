@@ -1,5 +1,4 @@
 ---
-layout: post
 title: AnoNatsu licensed, more Single8, Remon-senpai is mai waifu
 ---
 

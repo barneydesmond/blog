@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Shooting with the Einstein E640 on location
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The ideal travel companion
 vim: linebreak
 ---

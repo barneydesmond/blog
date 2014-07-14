@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Back again
 vim: linebreak
 tags: Photography Travel Japan201301

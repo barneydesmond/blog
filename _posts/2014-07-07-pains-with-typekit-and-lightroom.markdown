@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pains with Typekit and Lightroom
 vim: linebreak
 tags: Photography

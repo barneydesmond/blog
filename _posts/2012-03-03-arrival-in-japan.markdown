@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Arrival in Japan
 vim: linebreak
 tags: Photography Travel Japan201203

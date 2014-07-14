@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Finding your GiftCardPlanet balance the lazy way
 vim: linebreak
 ---

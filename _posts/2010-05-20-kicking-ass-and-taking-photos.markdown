@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kicking ass and taking photos
 ---
 

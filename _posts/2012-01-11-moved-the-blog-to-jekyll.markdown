@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Moved the blog to Jekyll
 ---
 

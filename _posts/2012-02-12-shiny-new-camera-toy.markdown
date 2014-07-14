@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Shiny new camera toy
 ---
 

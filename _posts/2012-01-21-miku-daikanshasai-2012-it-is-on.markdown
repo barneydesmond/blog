@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Miku Daikanshasai 2012 - It Is On
 ---
 

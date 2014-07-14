@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Other full-res photos from the D800
 vim: linebreak
 tags: Photography

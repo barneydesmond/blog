@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sculpture by the Sea
 vim: linebreak
 tags: Photography

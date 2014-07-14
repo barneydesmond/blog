@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "I'll be waiting in that small town - Dam"
 vim: linebreak
 tags: Photography Travel Japan201203

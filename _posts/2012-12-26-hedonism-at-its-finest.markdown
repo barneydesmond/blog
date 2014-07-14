@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hedonism at its finest
 vim: linebreak
 tags: Photography Travel Japan201301

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Last hours - Time machine
 vim: linebreak
 tags: Photography Travel Japan201203

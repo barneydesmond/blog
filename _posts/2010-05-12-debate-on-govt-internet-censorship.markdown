@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Debate on govt. internet censorship
 ---
 

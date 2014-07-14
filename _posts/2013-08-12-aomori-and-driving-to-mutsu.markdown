@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Aomori and driving to Mutsu
 vim: linebreak
 tags: Photography Travel Japan201308

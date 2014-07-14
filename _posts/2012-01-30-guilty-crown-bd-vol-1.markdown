@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Guilty Crown bluray volume 1
 ---
 

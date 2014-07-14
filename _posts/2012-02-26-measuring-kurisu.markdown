@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Measuring Kurisu
 vim: linebreak
 tags: Cosplay

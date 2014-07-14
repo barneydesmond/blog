@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MikuPa and Daikanshasai
 vim: linebreak
 tags: Photography Travel Japan201203

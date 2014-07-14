@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Killing is Harmless
 vim: linebreak
 ---

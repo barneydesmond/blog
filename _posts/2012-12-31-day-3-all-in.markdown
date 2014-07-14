@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Day 3: All In"
 vim: linebreak
 tags: Photography Travel Japan201301

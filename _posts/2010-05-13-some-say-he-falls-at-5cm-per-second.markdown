@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Some say he falls at 5cm per second
 ---
 

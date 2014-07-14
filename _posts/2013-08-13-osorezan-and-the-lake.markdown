@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Osorezan and the lake
 vim: linebreak
 tags: Photography Travel Japan201308

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Yagen valley and chasing the kappa
 vim: linebreak
 tags: Photography Travel Japan201308

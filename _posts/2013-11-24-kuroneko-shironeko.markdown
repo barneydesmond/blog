@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kuroneko／Shironeko
 vim: linebreak
 tags: Photography Cosplay

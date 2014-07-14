@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Nikon D4 dynamic range and noise levels graphed, compared to older siblings
 ---
 

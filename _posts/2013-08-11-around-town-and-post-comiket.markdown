@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Around town and post-Comiket
 vim: linebreak
 tags: Photography Travel Japan201308

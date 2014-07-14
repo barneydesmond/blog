@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wasted on the Young may not be wasted on the young
 ---
 

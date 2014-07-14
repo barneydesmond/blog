@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On Comiket
 vim: linebreak
 tags: Photography Travel Japan201301

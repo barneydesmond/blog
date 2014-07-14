@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Getting to Tokyo
 vim: linebreak
 tags: Photography Travel Japan201308

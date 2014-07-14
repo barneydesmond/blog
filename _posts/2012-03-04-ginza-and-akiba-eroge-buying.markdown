@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ginza and Akiba, eroge buying
 vim: linebreak
 tags: Photography Travel Japan201203

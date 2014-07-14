@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Kurisu's jacket completed
 vim: linebreak
 tags: Cosplay

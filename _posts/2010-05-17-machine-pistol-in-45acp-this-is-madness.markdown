@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Machine pistol in .45 ACP? This is madness!
 ---
 

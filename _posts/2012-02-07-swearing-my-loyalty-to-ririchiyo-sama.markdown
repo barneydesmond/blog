@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Swearing my loyalty to Ririchiyo-sama
 ---
 

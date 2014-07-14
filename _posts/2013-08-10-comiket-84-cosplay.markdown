@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Comiket 84 cosplay
 vim: linebreak
 tags: Photography Cosplay Travel

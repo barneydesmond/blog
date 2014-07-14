@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Megane and Radio Kaikan
 vim: linebreak
 tags: Photography Travel Japan201203

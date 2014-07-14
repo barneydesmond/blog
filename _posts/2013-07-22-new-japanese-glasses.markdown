@@ -1,5 +1,4 @@
 ---
-layout: post
 title: So I got some new Japanese glasses...
 vim: linebreak
 ---

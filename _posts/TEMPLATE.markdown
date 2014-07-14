@@ -1,5 +1,4 @@
 ---
-layout: post
 title: POST_TITLE
 vim: linebreak
 tags: FIXME_AS_NEEDED Photography Cosplay Travel

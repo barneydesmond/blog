@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Buddha's Birthday at Darling Harbour
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: On being kinda hopeless sometimes
 vim: linebreak
 ---

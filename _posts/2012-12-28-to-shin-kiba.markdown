@@ -1,5 +1,4 @@
 ---
-layout: post
 title: To Shin-Kiba
 vim: linebreak
 tags: Photography Travel Japan201301

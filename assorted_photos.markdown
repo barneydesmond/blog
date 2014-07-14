@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Assorted photos
 vim: linebreak
 ---
