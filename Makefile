@@ -17,7 +17,7 @@ all: thumbs jekyll
 thumbs: $(patsubst _img_full/%,_img_thumb/%,$(wildcard _img_full/*.gif) $(wildcard _img_full/*.png) $(wildcard _img_full/*.jpg))
 
 jekyll:
-	@jekyll
+	@jekyll build
 	ln -s /home/furinkan/blog/_img_thumb /home/furinkan/public_html/j.furinkan.meidokon.net/img/thumb
 	ln -s /home/furinkan/blog/_img_full  /home/furinkan/public_html/j.furinkan.meidokon.net/img/full
 
