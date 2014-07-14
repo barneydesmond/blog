@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201301
 ---
 
-{% include post_header.html %}
-
 Day 2 of Comiket. I can't do it, I'm just too tired and I just don't care enough. dovac's not in great shape and he's popping double doses of pain pills like there's no tomorrow, so we're gonna rusuban the dorm while everyone else goes to suffer in the cold.
 
 In between getting up for the odd snack and toilet break, I end up sleeping most of the day away, it feels so gooooodd~

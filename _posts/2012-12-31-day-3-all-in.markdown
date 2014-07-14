@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201301
 ---
 
-{% include post_header.html %}
-
 Alright, I'm pumped for this! Seriously, if I don't at least go check out some cosplay or something I'll feel bad. That and I promised to buy some stuff for people.
 
 

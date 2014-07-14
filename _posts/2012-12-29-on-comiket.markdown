@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201301
 ---
 
-{% include post_header.html %}
-
 I'll let you in on a little secret: I'm so over waking up early and camping out for six hours to buy stuff at Comiket. We keep saying this to ourselves, but it's been what, three times now? By all means do it once, so you know what it's like. Then stop killing yourself, you've got better things to be doing.
 
 Have you ever tried explaining this to someone? Most riajuu, normal people, will understand if you say you camped out overnight to get a good spot in a queue for tickets to a concert. For Comiket you have to explain that you line up in blocks of a couple hundred people, because the word "queue" implies a single-file line. And that you do this with tens of thousands of other people who are willing to brave the cold.

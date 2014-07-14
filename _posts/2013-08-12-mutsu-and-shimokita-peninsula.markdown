@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201308
 ---
 
-{% include post_header.html %}
-
 Nakagawa-san drives a little turbocharged ute. I can tell it's turbo'd because there's an aftermarket boost gauge stuck on the dashboard whose needle flaps around every time he shifts gears. For what's clearly an old and well-worn vehicle, there's a surprisingly large number of addons. The radar detector on the dashboard blares momentarily as we drive along an anonymous stretch of backroad, and Mizuki Nana is playing from an SD card in the stereo unit.
 
 He asks me if I'd like to go visit the local onsen while I'm unpacking my things, and I'd love to, given that my body is covered in a weird mixture of aircon-dried sweatiness. It's dark so I can't tell exactly where we are, but it looks like a hotel, except that the carport at the front opens straight into the foyer for the baths. I'm a little thrown off when I realise that he's not coming to bathe as well, he'll come to pick me up in an hour or so; crap, I'm on my own again. I've done onsens before, just not in the public bath style. He helps me buy one of the requisite modesty towels from the front desk and then he's off.

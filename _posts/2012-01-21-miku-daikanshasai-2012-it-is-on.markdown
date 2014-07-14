@@ -2,8 +2,6 @@
 title: Miku Daikanshasai 2012 - It Is On
 ---
 
-{% include post_header.html %}
-
 Shit son, looks like I'm heading to Japan in March - Omochikaeri and I are going *because we damn well can*.
 
 Also for the Miku concerts on March 8th and 9th.

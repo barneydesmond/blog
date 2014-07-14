@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 After checking out of the 'Royal I headed off to Kaikouen, this time much better lit, but still snowing. I haven't seen the NatsuMachi screenshots and photos plotted on a map so I don't know exactly what I'm looking for, but I think I'll manage.
 
 Most of the identifiable locations in Komoro are in and around Kaikouen, the park adjacent to the castle ruins. In the context of NatsuMachi this makes sense - all the locations they use for filming are convenient spots around the park. Entry to the park is a few hundred yen.

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Cosplay
 ---
 
-{% include post_header.html %}
-
 If I may say so, these look *damn* fine now that they're finished.
 
 {% insert_image kurisu_DSC_8752.jpg %}

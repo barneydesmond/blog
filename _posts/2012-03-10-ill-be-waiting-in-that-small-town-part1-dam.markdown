@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 I was on the verge of giving up on making it out to Komoro in the evening. It was going to be a stretch to make the last shinkansen of the night, knowing that it'd be all over if I got stuck on a connection. My mind flashed back to the year before, when I was making the same mad dash towards Hinamizawa and pinning my hopes on the last shinkansen of the night to Takayama.
 
 {% insert_image DS7_9588.jpg %}

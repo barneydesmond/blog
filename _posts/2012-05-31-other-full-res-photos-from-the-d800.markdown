@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography
 ---
 
-{% include post_header.html %}
-
 The D800 has some spectacular output. This extends the previous set and includes shooting data with each shot.
 
 {% insert_image DS8_0661.jpg %}

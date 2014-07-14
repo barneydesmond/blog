@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay
 ---
 
-{% include post_header.html %}
-
 This is a shoot that Rose and I had been planning for a little while, thinking of ideas and concepts while waiting for a window when we'd both be available. Self-evidently the idea was schoolgirl + guns, a "gap moe" combination. Nothing original of course, but plenty of scope to try some fun ideas.
 
 {% insert_image 20140603-DS8_7613.jpg %}

@@ -2,8 +2,6 @@
 title: Moved the blog to Jekyll
 ---
 
-{% include post_header.html %}
-
 It's about bloody time I did *something*.
 
 I stumbled upon a blog post by [TPW](http://tom.preston-werner.com/), one of the co-founders of Github. We dealt with him a fair bit while Github was a customer of Anchor, but it's only right that I'd discover all the cool stuff after the fact.  :/

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 There's only so much that can be said about the Vocaloid concerts, it's something you have to experience. There's also only so much you can *show* without having a gigantic camera with you, which isn't allowed.
 
 I'm happy to report that the concerts were great. I'm a casual Vocaloid fan (unlike Trej), and I enjoyed myself immensely. I don't go to many gigs at all, "normal" or otherwise, but the audience vibe is amazing. There's a sort of heartwarming camaraderie that you feel, it's a shared experience as well as a very personal one. At the end of the concert, after the house-lights come up, everyone stands around for a bit facing each other towards the centre of the arena and applauding, with shouts of "Otsukaresama deshita!" - Good work, everyone.

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Cosplay
 ---
 
-{% include post_header.html %}
-
 Let's just ditch reality for a moment, 'cause it's boring. Fantasy is way more interesting. My Steins;Gate fanbook has chara profiles for everyone, let's have a look at Kurisu's.
 
 {% insert_image kurisu_DSC_8850.jpg %}

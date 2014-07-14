@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201308
 ---
 
-{% include post_header.html %}
-
 Got a whole lot of driving lined up for today. Technically it's kinda a free day and I don't *have* to do this, but I hear the area around Lake Towada is [hella beautiful](http://wikitravel.org/en/Towada-Hachimantai_National_Park), so off we go!
 
 {% insert_image 20130814-IMGP0515.jpg %}

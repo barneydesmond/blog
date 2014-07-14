@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201301
 ---
 
-{% include post_header.html %}
-
 It's time to check out and get ourselves to Shin-Kiba for Comiket. At once, I'm pumped for this, but really not for all the hassle it entails. Anyway, there's no time for that. Right now I really have too much stuff and not enough carrying capacity. I blow well past the nominal checkout time for Via Inn as I keep packing and organising stuff, and make a mad dash out to Akky to buy more 1000yen bags.
 
 {% insert_image 20121228-DSCF3593.jpg %}

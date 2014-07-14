@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201308
 ---
 
-{% include post_header.html %}
-
 After a false start that sees me needing to backtrack after missing the turn-off to Yagen, I'm on the way. It's a narrow road, very windy, and very steep. It actually reminds me a lot of playing [Battle Gear 4](http://en.wikipedia.org/wiki/Battle_Gear_4) at the arcade, one of the red hill-climb tracks that's a relentless series of closely-spaced hairpins, though I'm going down instead of climbing.
 
 The road has many tight corners with convex mirrors to aid visibility, and there are regular signs warning of rockfalls and landslides. Great. Still, this doesn't seem to have deterred a number of cyclists that I spot along the way. They're all pulled off to the side of the road having a break. I enconter perhaps half a dozen cars travelling uphill on the way down. Not many, but by no means lonely.

@@ -2,8 +2,6 @@
 title: Shiny new camera toy
 ---
 
-{% include post_header.html %}
-
 This turned up at Whilton's, for $395. kuroneko informed me of its presence when he went window-shopping.
 
 {% insert_image DSC_8522_wt-4.jpg %}

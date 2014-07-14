@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201308
 ---
 
-{% include post_header.html %}
-
 
 After day 1 we all went to an Italian restaurant in the UDX building in Akiba because... we couldn't think of anything better, and it was easy. It's got a decent ambience, but service did seem a bit slow. They figured out how to make White Russians after a little while, and I had no complaints about my carbonara pasta.
 

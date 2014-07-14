@@ -2,8 +2,6 @@
 title: Shooting with the Einstein E640 on location
 ---
 
-{% include post_header.html %}
-
 *Originally posted to my Google+ account, edited for current context*
 
 This isn't actually that specific to the E640, it's more about dragging studio gear out into the field. I took some of the lighting kit out one morning last week for its first "real" test. Observations were made and lessons were learnt:

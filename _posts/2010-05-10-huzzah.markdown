@@ -2,8 +2,6 @@
 title: Huzzah!
 ---
 
-{% include post_header.html %}
-
 A flood of good things arrived today.
 
 * My camera came back from warranty repairs, Nikon gets a big thumbs up for getting it back so quickly (less than a week) &lt;3

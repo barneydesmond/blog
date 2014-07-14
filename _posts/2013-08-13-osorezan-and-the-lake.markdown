@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201308
 ---
 
-{% include post_header.html %}
-
 I have a very fitful night's rest and wake up to a warm breeze blowing into the room. It's twenty-five degrees. I'm tempted to sleep in some more but there's too much to do! I'm fully refreshed and pumped to get going to Osorezan.
 
 {% insert_image 20130813-20130813_075430.jpg %}

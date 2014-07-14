@@ -2,8 +2,6 @@
 title: Ano Natsu de Matteru set in Komoro, Nagano
 ---
 
-{% include post_header.html %}
-
 Rather excited right now, I see that [AnoNatsu](http://www.ichika-ichika.com/) is sit in roughly the same area as Onegai Teacher. The Japanese fans of course determined this ages ago from the promo video, but there's been no details in English regarding this.
 
 I should've thought to lookup the JP sites first - I [nutted it out](http://en.wikipedia.org/wiki/Special:Search?search=aioi-cho) from seeing the streetsign for Aioi-cho in the episode and then [looking up the address through diddlefinger](http://diddlefinger.com/m/naganoken/komoroshi/402820/?ch=3-3-3&t=m).

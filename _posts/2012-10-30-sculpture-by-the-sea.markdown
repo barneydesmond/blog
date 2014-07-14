@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography
 ---
 
-{% include post_header.html %}
-
 
 So I've never actually gone to Sculpture by the Sea before. I decided to do it this year, aiming for a really early morning start to catch the sunrise. Thus, Sunday morning before church, I was off to the beach.
 

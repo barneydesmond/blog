@@ -3,8 +3,6 @@ title: On top of the world
 vim: linebreak
 ---
 
-{% include post_header.html %}
-
 We've been messing with a customer at work recently, they have this dopey-arse habit of running many instances of the `top` command on their server. It's not like it's a problem, but they call us up and think the sky is falling when they really don't know what they're doing.
 
 A few of us decided to do something about it late one evening last week. Using nagios to monitor the number of running `top` processes on their machine, we set it to trip a Critical alert if it exceeds 5. When a Critical occurs it invokes a script that kills the oldest instance with a "run out of CPU time" error, and pops a messag in syslog for us.

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 Actually that wasn't the whole story from [last night](/2012/03/06/ramen-to-tarot-to-kurisu.html). We were hungry after taking photos, and Blitz convinced us that a maid cafe was a good idea. Trej was only a little peckish, but specifically wanted a parfait. LittleBSD was an option, but they don't do parfaits. A famiresu like Denny's or Gusto would do parfait, but where's the fun in that?
 
 In the end we settled on [Cos-Cha](http://www.cos-cha.com/), a cosplay cafe that Mouse once said he had a just-average experience at, but we were willing to give it a shot, and Blitz had been there before.

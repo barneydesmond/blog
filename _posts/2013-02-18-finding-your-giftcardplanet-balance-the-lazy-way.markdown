@@ -3,8 +3,6 @@ title: Finding your GiftCardPlanet balance the lazy way
 vim: linebreak
 ---
 
-{% include post_header.html %}
-
 I did some market research because I love glasses so much, and to compensate me for my time I received two giftcards from the market research company. They're made by [GiftCardPlanet.com.au](http://www.giftcardplanet.com.au/) and work just like EFTPOS but with stored value, which is pretty convenient.
 
 They have this website for checking the remaining balance. It's easy, but it's a nuisance needing to "log in" every time. The site [looks kinda janky](http://www.giftcardplanet.com.au/balance.php), so I thought I'd go poking to see if I could just hit a URL instead.

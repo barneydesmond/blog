@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201301
 ---
 
-{% include post_header.html %}
-
 Christmas is kinda like any other day for us - we woke up late and did a lot of not-all-that-much. I don't think it's a waste, we're just relaxed. Christmas in Japan is pretty much all capitalistic, and it's not like we have anything heartful to do anyway.
 
 dovac was too tired to meet up with us last night, so we met up for breakfast. I think this is the first time I've *properly* met dovac, which is to say he wasn't cosplaying as Kirino - good times. :)

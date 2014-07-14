@@ -3,8 +3,6 @@ title: Killing is Harmless
 vim: linebreak
 ---
 
-{% include post_header.html %}
-
 I recently finished playing through [Spec Ops: The Line](http://en.wikipedia.org/wiki/Spec_Ops:_The_Line) on Steam. I can't remember why, I probably saw a good review or positive comment and bought it on impulse. And it was on sale. I'm a fan, albeit a casual one, of shooters like Call of Duty, and The Line delivers the same sort of experience that I find enjoyable. Thumbs up, pats on the back all 'round.
 
 I'll get a few things out of the way real quickly.

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201308
 ---
 
-{% include post_header.html %}
-
 
 Stepping off the train in Shin-Aomori it's still hot in the sun, but the temperature is much more bearable compared to down south. I down another vending machine drink and get moving to Aomori station, which is several kilometres east, in the middle of town. Now that I'm far from Tokyo, it's only just setting in that I'll be flying solo for the next several days.
 

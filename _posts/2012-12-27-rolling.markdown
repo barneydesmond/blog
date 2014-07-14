@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201301
 ---
 
-{% include post_header.html %}
-
 
 Let's get into this! dovac popped in to our hotel room sometime in the morning and we started on breakfast: that glorious baumkuchen.
 

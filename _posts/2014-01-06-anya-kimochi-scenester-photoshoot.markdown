@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography
 ---
 
-{% include post_header.html %}
-
 It's been busy these last few days. The Air Gear photoshoot was pretty draining and editing took a while, but I'll never turn down an opportunity to go take more photos. Aru Jei gave me a prod and asked if I wanted to come out for a casual non-cosplay shoot with Anya at Olympic Park. I was still waiting to give him the battery caddy for his D700's grip, so hey why wouldn't I go out today? It's time for a long lunch again, so I brought the laptop to stay connected with the office.
 
 An [ANTI THE∞HOLiC](http://vocaloid.wikia.com/wiki/ANTI_THE%E2%88%9EHOLiC) wig chopped into *scene* style, a gritty singlet top, old jeans and a bright pair of kicks. People, myself included, don't have a firm idea of what being a "scene kid" (to use the sometimes-pejorative) really means beyond the fashion stereotypes, with an assumption that it's a coherent alternative subculture thing.

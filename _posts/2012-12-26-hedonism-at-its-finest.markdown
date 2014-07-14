@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201301
 ---
 
-{% include post_header.html %}
-
 Huzzah, first proper sleep-in of the trip! Had a kebab for breakfast (lunch) in Akiba then picked up those little Robotics;Notes badges that I was eyeing off yesterday in Robot+Robot.
 
 Interestingly the Star Kebab trailer has moved from its old spot near the station; they've now got a few more permanent locations on the west side of Chuo Dori, along with a sit-in joint.

@@ -2,8 +2,6 @@
 title: Kurisu wigs arrived
 ---
 
-{% include post_header.html %}
-
 Huzzah! This puts me one step closer to having my [Kurisu cosplay](http://moin.meidokon.net/furinkan/cosplay/Makise_Kurisu) ready before heading off to Japan. I'm really starting to get a bit paranoid about it, and given my track record it's not surprising.
 
 {% insert_image DSC_8493_kurisu_wigs.jpg %}

@@ -3,8 +3,6 @@ title: So I got some new Japanese glasses...
 vim: linebreak
 ---
 
-{% include post_header.html %}
-
 My brother, being the observant guy that he is, took me along to an optometrist while we were in Melbourne for [PAX](http://www.paxaustralia.com.au/) over the weekend. [CAL Eyewear](http://caleyewear.com/) is a very small shop that apparently specialises in Japanese import frames, and they can prepare a finished pair of glasses in just 30 minutes, which is crazy stuff!
 
 [Wayfarers](http://en.wikipedia.org/wiki/Ray-Ban_Wayfarer) are apparently really big at the moment, they seem to be all over the walls at the other big chains that we walked through. There's a few at CAL, but not too many. Mostly I'm looking for "interesting things".

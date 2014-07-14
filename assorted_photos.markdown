@@ -3,8 +3,6 @@ title: Assorted photos
 vim: linebreak
 ---
 
-{% include post_header.html %}
-
 {% insert_image DS7_0026.jpg %}
 Caption: Processed Single-8 film
 

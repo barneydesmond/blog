@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay
 ---
 
-{% include post_header.html %}
-
 It's been going downhill for a while now. **TO BE COMPLETED**
 
 

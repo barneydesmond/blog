@@ -2,8 +2,6 @@
 title: Machine pistol in .45 ACP? This is madness!
 ---
 
-{% include post_header.html %}
-
 Let's talk firearms, I think they're great fun. As an engineer, I find their hard functionality, intricacy and reliability fascinating (this goes doubly when you spend the rest of your time dealing with computers, haha). I'm not interested in pointing guns at people and I sure don't want to be on the business end of one either, but let's face it - guns are badass and cool. Thanks, John Woo.
 
 The Japanese seem to believe this too, if their [airsoft](http://en.wikipedia.org/wiki/Airsoft_gun) industry is anything to go by. CHOCO of [CHOCOLATE SHOP-Float](http://www.chocolateshop-float.com/) is presumably also a fan, having done a couple of original designs of his own. I'll take a moment to divert discussion to the first of these, the Hornisse, as it's an interesting exercise in design. Feel free to skip the next three paragraphs if you just want to get on to the machine pistol.

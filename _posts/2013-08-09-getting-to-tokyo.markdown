@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201308
 ---
 
-{% include post_header.html %}
-
 Well, I'm here again. Arguably against my better judgement, I'll be attending summer Comiket with my comrades [AstCd2](http://mikanya.meidokon.net/) and Akira, they're selling their very first doujin. I'm going to say "our" because it's just easier when we coordinate everything in our IRC channel, but it was really all their work.
 
 {% insert_image 20130809_kesakoi_c84_promo.jpg %}

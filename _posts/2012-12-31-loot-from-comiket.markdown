@@ -4,8 +4,6 @@ vim: linebreak
 published: no
 ---
 
-{% include post_header.html %}
-
 
 Muffler
 Full colour art pieces featuring scarves, collection of different artists, all gorgeous

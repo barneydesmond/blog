@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay Travel
 ---
 
-{% include post_header.html %}
-
 Holy crap, why anyone would want to cosplay at summer Comiket is beyond me. The heat is ridiculous, like 39 degrees, and humid. I didn't even go out until about 13:30, and got to Big Sight near 15:00. Despite having a shower just before heading out, I was sticky with sweat by the time I got to the station and desperately wished I could stay in the airconditioned sanctuary in Shibuya.
 
 I bought a huge bag full of cold drinks from Newdays at Osaki station to take to my comrades, about 1400 yen worth. Not all of it reached them, thanks to me consuming a few of them.

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Cosplay
 ---
 
-{% include post_header.html %}
-
 I like guns, so they're an interesting thing to try and take photos of. Working with real guns is too hard, but we can fake them up. Something that looks cool is spent brass in mid-flight. I've been meaning to get some, but I've been lazy. People will ask questions that I can't be bothered answering, so I'm gonna try DIY instead.
 
 My subject is the [9x19mm Parabellum](http://en.wikipedia.org/wiki/9mm_parabellum) cartridge. It's popular worldwide and many civilian and law enforcement weapons are chambered for it. If someone refers to 9mm calibre, it's probably this one. That makes it an ideal target. It should also be easy to make, being straight-sided with no shoulder to recreate.

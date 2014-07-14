@@ -2,8 +2,6 @@
 title: The best bluray player software for Windows is AnyDVD
 ---
 
-{% include post_header.html %}
-
 I got myself a Blu-Ray (BD) drive for my PC the other day, the LG CH12LS28 was [$80 from IJK](http://ijk.com.au/branch/ijk/product_info.php?manufacturers_id=&products_id=135905) with shipping and everything. Out of the drives on offer it was the cheapest that also happened to be a burner.
 
 It arrived on Wednesday, day before the Australia Day holiday. "Fantastic", I thought, "now I'll just dig up some decent BD player software". I haven't done this for a while because I don't own many DVDs, and Media Player Classic or Windows Media Player does a fine job anyway. *How Hard Can It Be?*

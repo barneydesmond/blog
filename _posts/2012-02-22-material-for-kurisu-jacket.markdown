@@ -4,8 +4,6 @@ vim: linebreak
 tags: Cosplay
 ---
 
-{% include post_header.html %}
-
 Went out to the [Remnant Warehouse](http://theremnantwarehouse.com.au/) this morning on the way to work, barely made it there in time for the midday-rule.  >_<
 
 A successful mission though, I picked up this wonderful fabric for Kurisu's jacket. I'd not heard of it before, the material is apparently a "[ponte](http://janssewingroom.wordpress.com/2010/07/22/ponteponte-di-roma-knits/)". Lincraft had something similar (also called a Ponte de Roma), but I wasn't quite as sold on it.

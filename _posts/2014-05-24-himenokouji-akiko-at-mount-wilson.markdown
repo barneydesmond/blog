@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay
 ---
 
-{% include post_header.html %}
-
 Today's shoot is of Himenokouji Akiko, from the anime and light novel [*OniAi*](http://en.wikipedia.org/wiki/Onii-chan_dakedo_Ai_sae_Areba_Kankei_Naiyone!), cosplayed by the lovely [Anya Kimochi](https://www.facebook.com/AnyaKimochi). We did actually have two more cosplayers with us, Rie and Simon, but we were a bit rushed and I didn't get around to shooting them myself. *C'est la vie.*
 
 {% insert_image 20140524-DS8_7410-Edit-2.jpg %}

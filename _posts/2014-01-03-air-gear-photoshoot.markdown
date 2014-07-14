@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay
 ---
 
-{% include post_header.html %}
-
 I was asked by the lovely [Anya Kimochi](https://www.facebook.com/AnyaKimochi) yesterday if I was free for a photoshoot. What, tomorrow? Hoo boy, well if it's in the city I could probably run away from the office for a little bit... That long lunch ended up being a *bit* longer than expected.
 
 {% insert_image 20140103-IMGP6330.jpg %}

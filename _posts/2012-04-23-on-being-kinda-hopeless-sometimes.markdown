@@ -3,8 +3,6 @@ title: On being kinda hopeless sometimes
 vim: linebreak
 ---
 
-{% include post_header.html %}
-
 So I haven't been posting since I got back, I've been more occupied by things than I expected to be. Oh well.
 
 Last weekend a friend and I were meant to drive to Kingsford from my place. It's about a 15-20min drive, not terribly far, but we were running a tiny bit late for a 10am appointment.

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay
 ---
 
-{% include post_header.html %}
-
 *To be written.*
 
 Most pleased to have [Rurineko](https://www.facebook.com/kiraracosplay) ask me to assist with a Shironeko ([Oreimo](http://en.wikipedia.org/wiki/Oreimo)) photoshoot. Eric was a massive help with fill lighting and reflector, and Lewys from [Paradox](http://www.paradoxphotos.com/) was also shooting.

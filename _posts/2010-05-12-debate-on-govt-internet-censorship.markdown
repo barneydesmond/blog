@@ -2,8 +2,6 @@
 title: Debate on govt. internet censorship
 ---
 
-{% include post_header.html %}
-
 I attended a debate last night on the motion, "[Governments should not censor the internet](http://iq2oz.com/events/event-details/2010-series-sydney/04-may.php)". The debates themselves are a regular event organised by IQ2, and I commend them for a lively and interesting evening.
 
 For someone like myself, the outcome and opinion on this topic is a foregone conclusion. That said, I found it a worthwhile exercise to re-frame the issue and consider things with a different perspective.

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 An uneventful trip is the best type of trip, got to Tokyo without any hassles. We met a guy at Cairns airport who works for Yahoo! in Australia, whom we later established is a friend of one of Trej's housemates - small world and getting smaller.
 
 {% insert_image DS7_9132.jpg %}

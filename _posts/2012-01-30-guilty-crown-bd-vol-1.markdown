@@ -2,8 +2,6 @@
 title: Guilty Crown bluray volume 1
 ---
 
-{% include post_header.html %}
-
 So the reason I bought the aforementioned bluray drive: **[Guilty Crown](http://www.guilty-crown.jp/)**. It was heavily oversold for what it ended up being, and almost bests Index/Railgun for the [chuu-ni byou](http://en.dic.pixiv.net/a/Chuunibyou) crown. I really love [redjuice's](http://redjuicegraphics.com/) designs though, and some of the characters are just so much fun to watch.
 
 The blurays also come with {% jisho tokuten %} goods, which is what I was really after. The first bluray comes with a copy of the storyboard for ep01, prints of the endplate images, a CD with alternate mixes of the themes, and a little booklet with various nice things.

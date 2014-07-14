@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201301
 ---
 
-{% include post_header.html %}
-
 It seems I'm back again. Like last time, I didn't sleep at all the night before my flight. I've had cosplay on my mind for the last few days, specifically that I wouldn't get it done before departure.
 
 I'm painfully aware that once I'm in Japan, doing any sewing for my [Robotics;Notes](http://moin.meidokon.net/furinkan/cosplay/Robotics_Notes) cosplay will be *really really hard*. There's also a deadline of the time that we actually get out to Tanegashima and Yakushima. I'll figure something out.

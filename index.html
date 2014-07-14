@@ -1,8 +1,16 @@
 ---
-layout: post
+layout: post-notitle
 title: Unbridled Cynicism
 ---
-{{ site.posts | first }}
+
+{% for post in site.posts limit:1 %}
+
+<div id="post">
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  {{ post.content }}
+</div>
+
+{% endfor %}
 
 <h1>Previous posts</h1>
 <p>A full list of posts can be found in <a href="/history.html">the archives</a>.</p>

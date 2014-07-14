@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay
 ---
 
-{% include post_header.html %}
-
 Went to help out on a shoot today around Bicentennial Park and Homebush Station. Figuring I might as well have a camera, I hauled along the D800 with 80-200/2.8 attached.
 
 {% insert_image DS8_9546.jpg %}

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 Hit up a few toy stores in Ginza so Trej could find some playing cards. Not really much to see otherwise, though it was interesting that one of the main streets was closed off as a pedestrian mall, much like Akiba's Chuo-dori.
 
 {% insert_image DS7_9232.jpg %}

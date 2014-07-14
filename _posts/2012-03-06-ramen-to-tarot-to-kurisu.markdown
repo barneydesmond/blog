@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 ## Ramen
 
 We made arrangements to meet with Berym for lunch, the guy we met on the flight to Tokyo. The destination is [Ichiran](http://www.ichiran.co.jp/index.html), a ramen place in Shibuya.

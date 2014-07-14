@@ -25,3 +25,8 @@ defaults:
       type: "page"
     values:
       layout: "post"
+  -
+    scope:
+      path: "tag"
+    values:
+      layout: "post-notitle"

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Cosplay
 ---
 
-{% include post_header.html %}
-
 Kurisu's jacket is finally finished! Not a moment too soon either, I'm quite relieved. It wasn't terribly hard, I just had to get it done.
 
 {% insert_image kurisu_DSC_8858.jpg %}

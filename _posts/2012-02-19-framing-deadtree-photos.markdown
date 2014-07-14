@@ -2,8 +2,6 @@
 title: Framing deadtree photos
 ---
 
-{% include post_header.html %}
-
 I've been looking into photo printing and framing recently. It's well and good to show people digital pictures, but it's hard to escape the "specialness" that you feel when something is tangible.
 
 The moe/otaku industry is built on this. Imagine how different Comiket would be if things just *weren't scarce* - it'd probably be a great creators' meetup event again. If you're a creator of digital content, tangible bonuses are also a great way to get people to buy your stuff instead of pirating it.

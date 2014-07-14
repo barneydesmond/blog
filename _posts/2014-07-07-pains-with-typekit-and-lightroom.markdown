@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography
 ---
 
-{% include post_header.html %}
-
 I thought I was going mad, it turns out that I'm not.
 
 I have a Creative Cloud subscription, I can get beautiful fonts to use on my desktop. Great! I thought about redoing my photography watermark because while I like Calibri, it's not terribly interesting. I picked some fonts from Typekit, went to use them in Lightroom, and... they're not there? They appear in Photoshop just fine.

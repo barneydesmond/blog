@@ -2,8 +2,6 @@
 title: Debt again!
 ---
 
-{% include post_header.html %}
-
 ### Aww. Hell. Yeah.
 
 {% insert_image 20120214_netbank_3k.png %}

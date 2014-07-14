@@ -2,8 +2,6 @@
 title: Kicking ass and taking photos
 ---
 
-{% include post_header.html %}
-
 The cinema run for [Kick Ass](http://en.wikipedia.org/wiki/Kick-Ass_%28film%29) will finish soon, and despite my initial skepticism, people whom I trust have genuinely been saying very good things about it. And so it was commanded that the film would be seen. The film was seen, and it was judged to be Good.
 
 I've no particular interest in comics but this was a mighty fine adaptation, and all present enjoyed it thoroughly. Excuse me while I slip into へんたいおじいさん mode for a sec:

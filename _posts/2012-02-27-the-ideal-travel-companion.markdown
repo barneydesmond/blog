@@ -3,8 +3,6 @@ title: The ideal travel companion
 vim: linebreak
 ---
 
-{% include post_header.html %}
-
 {% insert_image ririchiyo_DSC_9098.jpg %}
 Caption: HNNNGG SO SMOOTH AND FLAT
 

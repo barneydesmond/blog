@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201308
 ---
 
-{% include post_header.html %}
-
 Today is one of the big focal points for my trip - I'm venturing into the areas surrounding Fukushima and want to see how close I can get to the exclusion zone surrounding the site of the March 2011 nuclear disaster.
 
 Clear facts about the aftermath aren't easy to come by, and a lot of what you hear or read is speculation and hyperbole, instead of rational thought and facts. I've done my internet-armchair-expert research, this is clearly a low-risk activity. Let's do some back-of-the-envelope risk analysis. Here's some **radiation dosage charts**, presume that they're sufficiently accurate:

@@ -5,8 +5,6 @@ tags: Photography Cosplay
 published: no
 ---
 
-{% include post_header.html %}
-
 I'm what you might call a *Nise-Teitoku*, a pretender to the title of Admiral, not having any shipdaughters of my own to command. Nevertheless I spent a delightful Sunday afternoon with [Rose](https://www.facebook.com/Yumibaracos) taking photos of her Shimakaze cosplay. A little wind aside, the weather in Darling Harbour was about as perfect as could be for a winter day.
 
 We managed to shoot through the afternoon right up until the end of the golden hour around 17:00, and I think it was a very productive day. 

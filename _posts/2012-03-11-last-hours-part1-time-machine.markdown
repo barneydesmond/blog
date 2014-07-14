@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 There's been a dizzying rush as we struggle to get everything done in time, it makes more sense if I start at last night.
 
 -----

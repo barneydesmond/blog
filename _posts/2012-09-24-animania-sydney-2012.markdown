@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Cosplay
 ---
 
-{% include post_header.html %}
-
 Animania was [this weekend](http://animania.net.au/2012/sydney-september), I mostly socialised on Saturday and cosplayed on Sunday.
 
 I guess this'll mostly be a photo post, though not a huge number of them. I had a good time with people and took some photos, I can't ask for much more than that.

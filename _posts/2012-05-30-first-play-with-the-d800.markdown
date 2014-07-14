@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography
 ---
 
-{% include post_header.html %}
-
 It's a little bit late, but I thought it's about time I posted some of these where they can actually be seen properly (ie. not Facebook). They've all been run through Lightroom and been exported at full size.
 
 I got the D800 at the start of this month and got to have a good play with it during a weekend outing with friends. First half of the day was at a baseball game, the latter out at Kurnell approaching sunset.

@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 ## Shopping
 
 Weather was crappy and rainy, but that wasn't going to stop us buying a lot of stuff. We'd somehow avoided Toranoana thus far, so we went to hit them up for various non-doujin-book goods.

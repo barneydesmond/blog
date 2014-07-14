@@ -2,8 +2,6 @@
 title: Nikon D4 dynamic range and noise levels graphed, compared to older siblings
 ---
 
-{% include post_header.html %}
-
 This comparison popped up a few days ago, I trust that their method was sufficiently scientific such that these values are representative of reality.
 
 [FX Read Noise Comparison](http://home.comcast.net/~NikonD70/GeneralTopics/Sensors_&_Raw/FX_Read_Noise_Comparison.htm)

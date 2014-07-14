@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography
 ---
 
-{% include post_header.html %}
-
 One of the first things I shot with the D800 was a dance battle that I stumbled onto as I was walking home from work one evening. Me being lazy, I didn't bother processing them until now.
 
 Whenever you walk past the Sydney Entertainment Centre at night you'll find someone practising their moves, usually in a little group. Tonight it was a little 2v2 team tournament called [Night2Sunrise](http://ozpoppinseen.wordpress.com/2012/05/03/n2s-autumn-jam-sessions-fri-4th-may-12/). The only dance I know is DDR, but this was really fun to watch.

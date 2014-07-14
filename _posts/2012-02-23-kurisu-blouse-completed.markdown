@@ -4,8 +4,6 @@ vim: linebreak
 tags: Cosplay
 ---
 
-{% include post_header.html %}
-
 Now that I have the bias binding, I can make Kurisu's blouse pretty...
 
 Picked up a fairly plain white blouse at Myer the other week, by Marcs for $99. It's overkill, of course, but another school blouse wouldn't cut it this time - the neckline won't take a tie and it doesn't have a top button. The Marcs blouse is well-cut, long-sleeved, slightly stretchy and very soft.

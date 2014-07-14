@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography Travel Japan201203
 ---
 
-{% include post_header.html %}
-
 Meanwhile, back at the culture zone, there's a sweet music+drawing gig going on. They're got some dudes mixing up their tunes, while artists work on some artwork in SAI (a Japanese photoshop-alike tool). The setup is interesting, there's some sort of VJ'ing going on, with a mixed and corrupted form of the artist's workscreen being projected over the DJ.
 
 {% insert_image DS7_9923.jpg %}

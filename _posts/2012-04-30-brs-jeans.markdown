@@ -3,8 +3,6 @@ title: BRS jeans
 vim: linebreak
 ---
 
-{% include post_header.html %}
-
 I swear Cospa will be the death of me, with all their character goods that I want to buy. :/
 
 My [BRS jeans](http://www.cospa.com/detail/id/00000043643) arrived today, they're about as awesome as I hoped. I liked what I saw when they were announced for preorder a few months ago at [AmiAmi](http://www.amiami.com/top/detail/detail?scode=CGD2-23689), there's lots of nice subtle touchs in the design.

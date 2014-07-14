@@ -4,8 +4,6 @@ vim: linebreak
 tags: Photography
 ---
 
-{% include post_header.html %}
-
 
 Got asked to help shoot video for a UNSW CueSoc tournament. Despite not knowing anything at all about 9-ball, I agreed to go along and it was good fun.
 
