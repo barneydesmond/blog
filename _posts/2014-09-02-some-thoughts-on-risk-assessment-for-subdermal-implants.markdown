@@ -38,7 +38,7 @@ Even if you get an implanted one of those, it's highly unlikely that the bank wi
 
 So okay, let's say that you can live with those limitations, then you *really* want to find compelling uses for yourself. It's arguably unfortunate that you're not being threatened by an enemy state, so the extra security potentially granted by an implant is fairly minimal, making it difficult to justify, but the convenience is admittedly quite cool.
 
-At this point, I'd really recommend reading some of Bruce Schneier's stuff. He's written a bunch of [books](http://en.wikipedia.org/wiki/Bruce_Schneier#Publications) and also has a [blog](https://www.schneier.com/blog/calendar.html) but the homepage isn't working right now.
+At this point, I'd really recommend reading some of Bruce Schneier's stuff. He's written a bunch of [books](http://en.wikipedia.org/wiki/Bruce_Schneier#Publications) (Beyond Fear is pretty good because it's general) and also has a [blog](https://www.schneier.com/blog/calendar.html) but the homepage isn't working right now.
 
 *N.B. My memory is not the best here, and I haven't touched this stuff in a long while. But I think I've mostly got it right.*
 
