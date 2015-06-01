@@ -23,7 +23,7 @@ Small modifications were made: Retain some self-raising flour to aid in binding 
 {% insert_image 2015-06-01_soylent-cake-batter.jpg %}
 Caption: It's pretty thick and needed a good deal of extra milk to achieve a normal batter consistency.
 
-I was thinking that ideally you could replace your meals with cake, but the other ingredients add a lot of kilojoules, so you can't just eat cake all day. Starting with about one serve of soylent (2600 kJ) it blows out to about 11000 kJ once you make the cake; the sugar (2550 kJ) and butter(3750 kJ) are absolute killers.
+I was thinking that ideally you could replace your meals with cake, but the other ingredients add a lot of kilojoules, so you can't just eat cake all day. Starting with about one serve of soylent (2600 kJ) it blows out to about 11000 kJ once you make the cake; the sugar (2550 kJ) and butter (3750 kJ) are absolute killers.
 
 {% insert_image 2015-06-01_soylent-finished-cake.jpg %}
 Caption: The appearance and texture reminds me a lot of Mooncake.
