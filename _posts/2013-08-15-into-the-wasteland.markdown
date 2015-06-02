@@ -71,6 +71,10 @@ Caption: Salon de Carrier
 
 There's an uncomfortable tension between my immediate surroundings in the car and The Outside. I've got food, water, and reception on my smartphone, yet I feel profoundly alone and vulnerable the moment I step out of the car. A hot wind buffets my face and I duck back inside to consider my options.
 
+I don't really know how big this place is and I can't put down the disquiet in my gut. I decide to grab most of my stuff from the car in case... God knows what happens to the car while I'm away, and I might need something. It's about 8 kilos of camera gear and assorted provisions in my pack. The primitive part of my brain tells me I should stick low and try to stay out of sight.
+
+I shouldn't be here, noone is. Car's locked? Locked. Check again and swallow hard. Put the feelings down, clench every muscle in my torso and swing my legs over the low fence adjoining the next carpark.
+
 {% insert_image 20130815-011-IMGP0636.jpg %}
 Caption: Carpark barriers at supermarket
 
