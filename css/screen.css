@@ -173,6 +173,10 @@ ul.interests {
             padding-left: 4%;
             font-size: 1.25em;
         }
+
+    .site .title h1 {
+        padding-top: 0.25em;
+    }
 }
 /* BIG SCREENS */
 @media (min-width: 800px) {
@@ -234,16 +238,19 @@ ul.interests {
             font-size: 1.25em;
             display: inline-block;
         }
+
+    .site .title h1 {
+        padding-top: 1em;
+    }
 }
 
 
 
-  .site .title h1 {
-    margin: auto;
-    padding-top: 1em;
-    padding-left: 0px;
-    font-size: 3em;
-  }
+    .site .title h1 {
+        margin: auto;
+        padding-left: 0px;
+        font-size: 3em;
+    }
 
   .site .title a, .site .title a:visited {
     color: #cccccc;
@@ -271,6 +278,7 @@ ul.interests {
     margin-top: 2em;
     padding-left:  1.5em;
     padding-right: 1.5em;
+    padding-bottom: 1em;
     overflow: hidden;
 }
 
@@ -332,6 +340,10 @@ ul.interests {
 #post {
     line-height: 2.4em;
 }
+    #post h1 {
+        margin-bottom: 0.5em;
+    }
+
     #post li {
         margin-top:    0.5em;
         margin-bottom: 0.5em;
