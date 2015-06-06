@@ -1,3 +1,4 @@
+/* vim: ts=4 sw=4 et */
 /*****************************************************************************/
 /*
 /* Common
@@ -126,28 +127,72 @@ ul.interests {
 
 /* padding: top right bottom left */
 
-.site {
-  width: 800px;
-  background: #222222;
-  margin: 1em auto 2em auto;
-  text-align: justify;
-  -webkit-box-shadow: 10px 10px 5px -4px rgba(24,24,48,0.85);
-  -moz-box-shadow:    10px 10px 5px -4px rgba(24,24,48,0.85);
-  box-shadow:         10px 10px 5px -4px rgba(24,24,48,0.85);
-  -webkit-border-radius: 10px;
-  -moz-border-radius:    10px;
-  border-radius:         10px;
+/* LITTLE SCREENS */
+@media (max-width: 800px) {
+    .site {
+        width: 100%;
+        background: #222222;
+        margin-left:  auto;
+        margin-right: auto;
+        text-align: justify;
+    }
+
+    .site .title {
+        background: #111111;
+        padding-left: 8%;
+        padding-right: 8%;
+    }
+
+    .content {
+        margin-left:  3%;
+        margin-right: 3%;
+        float: left;
+        display: inline;
+    }
+
+    ul, ol {
+        padding-left: 1em;
+    }
+}
+/* BIG SCREENS */
+@media (min-width: 800px) {
+    .site {
+        width: 800px;
+        background: #222222;
+        margin: 1em auto 2em auto;
+        text-align: justify;
+        -webkit-box-shadow: 10px 10px 5px -4px rgba(24,24,48,0.85);
+        -moz-box-shadow:    10px 10px 5px -4px rgba(24,24,48,0.85);
+        box-shadow:         10px 10px 5px -4px rgba(24,24,48,0.85);
+        -webkit-border-radius: 10px;
+        -moz-border-radius:    10px;
+        border-radius:         10px;
+    }
+
+    .site .title {
+        background: #111111;
+        padding-left: 45px;
+        padding-right: 45px;
+        -webkit-border-radius: 10px 10px 0px 0px;
+        -moz-border-radius:    10px 10px 0px 0px;
+        border-radius:         10px 10px 0px 0px;
+    }
+
+    .content {
+        margin-left: 2.5em;
+        margin-bottom: 3em;
+        width: 45em;
+        float: left;
+        display: inline;
+    }
+
+    ul, ol {
+        margin-left: 1em;
+        padding-left: 2em;
+    }
 }
 
 
-.site .title {
-  background: #111111;
-  padding-left: 45px;
-  padding-right: 45px;
-  -webkit-border-radius: 10px 10px 0px 0px;
-  -moz-border-radius:    10px 10px 0px 0px;
-  border-radius:         10px 10px 0px 0px;
-}
 
   .site .title h1 {
     margin: auto;
@@ -232,15 +277,6 @@ ul.interests {
 
 
 
-.content {
-  margin-top: 2em;
-  margin-left: 2.5em;
-  margin-bottom: 3em;
-  width: 45em;
-  float: left;
-  display: inline;
-}
-
 .content p, .content li {
   line-height: 1.4em;
 }
@@ -261,11 +297,6 @@ ul.interests {
 
 
 
-
-ul, ol {
-  margin-left: 1em;
-  padding-left: 2em;
-}
 
 
 
