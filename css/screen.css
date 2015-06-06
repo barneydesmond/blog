@@ -330,49 +330,44 @@ ul.interests {
 /*****************************************************************************/
 
 #post {
-  line-height: 2.4em;
+    line-height: 2.4em;
 }
+    #post li {
+        margin-top:    0.5em;
+        margin-bottom: 0.5em;
+    }
 
-  /* standard */
+    /*
+    #post ul,
+    #post ol {
+        margin-left: 1.35em;
+    }
+    */
 
-  #post ul,
-  #post ol {
-    margin-left: 1.35em;
-  }
+    #post p.inline-embed {
+        background-color: #333333;
+        padding: 1em 1.5em 1em 1.5em;
+    }
 
-  #post li {
-    margin-top:    0.5em;
-    margin-bottom: 0.5em;
-  }
+    #post p.inline-embed img {
+        max-width: 100%;
+        display: block;
+        margin-left:    auto;
+        margin-right: auto;
+    }
+    #post p.inline-embed p.caption {
+        text-align: center;
+    }
 
-  /* terminal */
+    #post pre.terminal {
+        border: 1px solid black;
+        background-color: #333;
+        color: white;
+    }
 
-  #post pre.terminal {
-    border: 1px solid black;
-    background-color: #333;
-    color: white;
-  }
-
-  #post pre.terminal code {
-    background-color: #333;
-  }
-
-  #post div.inline-embed {
-    margin: 2em;
-    background-color: #333333;
-    border-radius: 0.5em;
-    padding: 1.5em 1.5em 0.5em 1.5em;
-  }
-
-  #post div.inline-embed img {
-    max-width: 100%;
-    display: block;
-    margin-left:  auto;
-    margin-right: auto;
-  }
-  #post div.inline-embed p.caption {
-    text-align: center;
-  }
+    #post pre.terminal code {
+        background-color: #333;
+    }
 
 #related {
   margin-top: 2em;
