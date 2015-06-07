@@ -12,7 +12,10 @@ Nowadays we [need to make a dbus call](http://unix.stackexchange.com/questions/1
 Using the *Keyboard* control panel, I bound Ctrl-Alt-L to this command:
 
 ```
-dbus-send --type=method_call --dest=org.gnome.ScreenSaver /org/gnome/ScreenSaver org.gnome.ScreenSaver.Lock
+dbus-send  \
+    --type=method_call  \
+    --dest=org.gnome.ScreenSaver  \
+    /org/gnome/ScreenSaver  org.gnome.ScreenSaver.Lock
 ```
 
 This is only necessary because the laptop keyboard (Lenovo T440) doesn't have enough spare media keys for me to appropriate, and I kinda need to be able to lock the screen without an external keyboard attached.
