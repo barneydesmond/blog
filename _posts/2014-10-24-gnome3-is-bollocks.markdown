@@ -1,6 +1,7 @@
 ---
 title: GNOME3 is bollocks
 vim: linebreak
+tags: Tech
 ---
 
 Why does Gnome (GNOME3 specifically) make things so hard? All I want to do is bind a keystroke to lock my workstation.

@@ -1,7 +1,7 @@
 ---
 title: Importing a CA cert in Linux
 vim: linebreak
-tags: Linux Sysadmin
+tags: Tech Linux Sysadmin
 ---
 
 An annoyance that I had thoughts about recently; some notes.

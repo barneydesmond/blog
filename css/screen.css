@@ -242,14 +242,14 @@ ul.interests {
             padding-right: 0;
         }
         .site .linkbar li.linkbar-link {
-            padding-left: 0.75em;
-            padding-right: 0.75em;
+            padding-left: 0.4em;
+            padding-right: 0.4em;
             font-size: 2em;
             display: inline-block;
         }
         .site .linkbar li.linkbar-link-small {
-            padding-left: 0.75em;
-            padding-right: 0.75em;
+            padding-left: 0.4em;
+            padding-right: 0.4em;
             font-size: 1.25em;
             display: inline-block;
         }

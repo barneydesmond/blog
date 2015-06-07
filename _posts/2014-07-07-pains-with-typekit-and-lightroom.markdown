@@ -1,7 +1,7 @@
 ---
 title: Pains with Typekit and Lightroom
 vim: linebreak
-tags: Photography
+tags: Photography Tech
 ---
 
 I thought I was going mad, it turns out that I'm not.
