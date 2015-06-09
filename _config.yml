@@ -16,13 +16,13 @@ defaults:
   -
     scope:
       path: "" # match all files
-      type: "post"
+      type: "posts"
     values:
       layout: "post"
   -
     scope:
       path: "" # match all files
-      type: "page"
+      type: "pages"
     values:
       layout: "post"
   -
