@@ -18,8 +18,8 @@ thumbs: $(patsubst _img_full/%,_img_thumb/%,$(wildcard _img_full/*.gif) $(wildca
 
 jekyll:
 	@jekyll build
-	ln -s /home/furinkan/blog/_img_thumb /home/furinkan/public_html/j.furinkan.meidokon.net/img/thumb
-	ln -s /home/furinkan/blog/_img_full  /home/furinkan/public_html/j.furinkan.meidokon.net/img/full
+	ln -s /home/furinkan/git/blog/_img_thumb /home/furinkan/public_html/j.furinkan.meidokon.net/img/thumb
+	ln -s /home/furinkan/git/blog/_img_full  /home/furinkan/public_html/j.furinkan.meidokon.net/img/full
 
 exif_summaries:
 	@git status | egrep "full.*jpg$$" | cut -d'/' -f3 | while read IMG ; do /bin/echo -e "{% insert_image $${IMG} %}\nCaption: $$(./exif_summary.sh img/full/$${IMG})\n" ; done
