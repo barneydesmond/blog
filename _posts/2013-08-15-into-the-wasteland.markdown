@@ -154,6 +154,8 @@ As featured in R;N and other things.
 {% insert_image 20130815-033-DS8_5012.jpg %}
 Caption: Volleyball team photo, I wonder when this was taken. If that's a meaningful date at the bottom, I guess it's Heisei 20 (2008). It's a weird experience just being here. This used to be a real Japanese school, something I only know as a stereotype. Real people attended here, they stood where I stand now, and used this storeroom. It's just... eerie.
 
+What's also eerie is looking at [the school's website](http://www.odaka-ch.fks.ed.jp/). Clearly everyone shipped out but to God knows where, maybe they moved as a single unit to another school, or maybe they all got spread out. But to have your entire world flipped like that, is unimaginable, literally every little detail of your perhaps-seemingly-mundane life, changes. And yet they keep going still learning, the principal's office still issuing regular announcements.
+
 {% insert_image 20130815-034-DS8_5016.jpg %}
 Caption: Stairs and hallway
 
@@ -258,13 +260,13 @@ Caption: Something about when stuff will be open? Until the 31st of August
 {% insert_image 20130815-063-DS8_5057.jpg %}
 Caption: Well, this is it. This is the end. I could move the barrier easily, but I don't. I dither. A patrol car arrives. A tense standoff. Eventually I walk over and tell them I'm lost. Two old guys, cagey about me.
 
-They escort me back to route 6. I'm shaky and it's getting a bit dark. I'd be tempted to go around and try another way, but I don't feel up to it. Today has been a good run.
+They escort me back to route 6. I'm shaky and it's getting a bit dark. I'd be tempted to go around and try another way, but I don't feel up to it. Today has been a good run, it's time to head back to Sendai, which'll take a couple of hours.
 
 {% insert_image 20130815-064-DS8_5058.jpg %}
 Caption: Dydo vending machines all lined up
 
 {% insert_image 20130815-065-DS8_5060.jpg %}
-Caption: Vending machine graveyard, what are they doing here
+Caption: Vending machine graveyard, what are they doing here?
 
 Well at least there's some working and stocked machines in a little pavillion on the roadside. I get a few and knock them back while appreciating the sinking son. Lord, I am at Peace.
 
@@ -290,7 +292,7 @@ Caption: Aqua parked on the roadside, looking fantastic
 {% insert_image 20130815-071-IMGP0679.jpg %}
 Caption: Wasabi cracker things? I got them from the apple place
 
-It's late but I get my arse off my hotel bed and make it to the restaurant, it's thankfully not too late. They're meant to be good, but ordering food is a bit of a test.
+It's late but I get my arse off my hotel bed and make it to the restaurant around 22:00, it's thankfully not too late. They're meant to be good, but ordering food is a bit of a test.
 
 {% insert_image 20130815-072-IMGP0680.jpg %}
 Caption: Dumplings! And beer.
@@ -301,4 +303,4 @@ Caption: OMG dat chewy chewy meat is SO GOOD right now
 {% insert_image 20130815-074-IMGP0682.jpg %}
 Caption: The full dinner set.
 
-I really can't read the menu, and after spending at least 15min looking up what are probably very common kanji, I order something I can actually read and reasonably get the pronunciation of (and still made a mistake I was corrected on)
+I really can't read the menu, and after spending at least 15min looking up what are probably very common kanji, I order something I can actually read and reasonably get the pronunciation of (and still made a mistake I was corrected on).
