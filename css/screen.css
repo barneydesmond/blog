@@ -82,10 +82,12 @@ table th {
 
 @font-face {
 	font-family: "DIN Pro Light";
+	font-display: fallback;
 	src: local('☺'), url("/fonts/dinpro-light-webfont.otf") format('opentype');
 }
 @font-face {
 	font-family: "DIN Pro Medium";
+	font-display: fallback;
 	src: local('☺'), url("/fonts/dinpro-medium-webfont.otf") format('opentype');
 }
 
